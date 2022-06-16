@@ -3,21 +3,18 @@
     "name": "task1",
     "path": "/task1",
     "component": "/Users/aliaksandrsekunau/projects/plantiblefoods/graphics/plantible-graphs/pages/task1.vue",
-    "chunkName": "pages/task1",
-    "_name": "_2aa3b85c"
+    "chunkName": "pages/task1"
   },
   {
     "name": "task2",
     "path": "/task2",
     "component": "/Users/aliaksandrsekunau/projects/plantiblefoods/graphics/plantible-graphs/pages/task2.vue",
-    "chunkName": "pages/task2",
-    "_name": "_2a87895a"
+    "chunkName": "pages/task2"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/aliaksandrsekunau/projects/plantiblefoods/graphics/plantible-graphs/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_9b4ac350"
+    "chunkName": "pages/index"
   }
 ]
