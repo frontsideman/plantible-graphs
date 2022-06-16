@@ -1,0 +1,4204 @@
+{
+  "items": [
+    {
+      "id": 44468,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 21:29:36",
+      "payload": "{\"pH\": 7.47, \"Temp\": 29.69}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44467,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 21:28:19",
+      "payload": "{\"DO\": 5868.8, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.95, \"Temp_DO\": 22.05, \"Salinity\": 0, \"DO_Saturation\": 67280.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44466,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 21:27:18",
+      "payload": "{\"humidity\": 43.59, \"temperature\": 31.06}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44465,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 21:25:52",
+      "payload": "{\"humidity\": 41.55, \"temperature\": 37.05}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44464,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 21:18:03",
+      "payload": "{\"pH\": 7.41, \"Temp\": 29.67}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44463,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 21:17:57",
+      "payload": "{\"DO\": 5911.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.78, \"Temp_DO\": 21.97, \"Salinity\": 0, \"DO_Saturation\": 66453.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44462,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 21:15:40",
+      "payload": "{\"humidity\": 43.87, \"temperature\": 31.29}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44461,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 21:15:10",
+      "payload": "{\"humidity\": 40.52, \"temperature\": 37.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44460,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 21:07:34",
+      "payload": "{\"DO\": 6144.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.67, \"Temp_DO\": 20.71, \"Salinity\": 0, \"DO_Saturation\": 67211.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44459,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 21:06:29",
+      "payload": "{\"pH\": 7.49, \"Temp\": 29.63}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44458,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 21:04:27",
+      "payload": "{\"humidity\": 40.24, \"temperature\": 37.41}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44457,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 21:04:02",
+      "payload": "{\"humidity\": 44.84, \"temperature\": 31.44}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44456,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 20:57:11",
+      "payload": "{\"DO\": 6042.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.53, \"Temp_DO\": 20.72, \"Salinity\": 0, \"DO_Saturation\": 66876.15}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44455,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 20:54:55",
+      "payload": "{\"pH\": 7.35, \"Temp\": 29.01}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44454,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 20:53:45",
+      "payload": "{\"humidity\": 39.41, \"temperature\": 37.91}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44453,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 20:52:24",
+      "payload": "{\"humidity\": 45.25, \"temperature\": 31.79}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44452,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 20:46:49",
+      "payload": "{\"DO\": 5978.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.43, \"Temp_DO\": 20.46, \"Salinity\": 0, \"DO_Saturation\": 65776.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44451,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 20:43:21",
+      "payload": "{\"pH\": 7.37, \"Temp\": 29.21}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44450,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 20:43:02",
+      "payload": "{\"humidity\": 38.29, \"temperature\": 38.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44449,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 20:40:46",
+      "payload": "{\"humidity\": 46.14, \"temperature\": 31.85}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44448,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 20:36:26",
+      "payload": "{\"DO\": 5923.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.72, \"Temp_DO\": 20.55, \"Salinity\": 0, \"DO_Saturation\": 65048.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44447,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 20:32:19",
+      "payload": "{\"humidity\": 34.87, \"temperature\": 39.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44446,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 20:31:47",
+      "payload": "{\"pH\": 7.36, \"Temp\": 29.06}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44445,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 20:29:08",
+      "payload": "{\"humidity\": 47.57, \"temperature\": 31.99}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44444,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 20:26:03",
+      "payload": "{\"DO\": 5963.52, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.46, \"Temp_DO\": 20.26, \"Salinity\": 0, \"DO_Saturation\": 64980.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44443,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 20:21:36",
+      "payload": "{\"humidity\": 35.73, \"temperature\": 40.09}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44442,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 20:20:12",
+      "payload": "{\"pH\": 7.25, \"Temp\": 28.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44441,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 20:17:30",
+      "payload": "{\"humidity\": 48.26, \"temperature\": 31.92}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44440,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 20:15:40",
+      "payload": "{\"DO\": 5892, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.26, \"Temp_DO\": 20.03, \"Salinity\": 0, \"DO_Saturation\": 64453.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44439,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 20:10:53",
+      "payload": "{\"humidity\": 31.76, \"temperature\": 41.21}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44438,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 20:08:38",
+      "payload": "{\"pH\": 7.24, \"Temp\": 28.77}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44437,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 20:05:51",
+      "payload": "{\"humidity\": 49.25, \"temperature\": 31.85}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44436,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 20:05:17",
+      "payload": "{\"DO\": 6041.76, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.95, \"Temp_DO\": 20.07, \"Salinity\": 0, \"DO_Saturation\": 65963.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44435,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 20:00:10",
+      "payload": "{\"humidity\": 31.17, \"temperature\": 41.39}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44434,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 19:57:04",
+      "payload": "{\"pH\": 7.15, \"Temp\": 28.43}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44433,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 19:54:54",
+      "payload": "{\"DO\": 6287.52, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.95, \"Temp_DO\": 19.71, \"Salinity\": 0, \"DO_Saturation\": 68646.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44432,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 19:54:13",
+      "payload": "{\"humidity\": 50.42, \"temperature\": 31.75}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44431,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 19:49:27",
+      "payload": "{\"humidity\": 32.1, \"temperature\": 41.11}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44430,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 19:45:30",
+      "payload": "{\"pH\": 7.23, \"Temp\": 28.27}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44429,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 19:44:31",
+      "payload": "{\"DO\": 6490.4, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.21, \"Temp_DO\": 19.77, \"Salinity\": 0, \"DO_Saturation\": 70033.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44428,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 19:42:35",
+      "payload": "{\"humidity\": 52.64, \"temperature\": 31.72}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44427,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 19:38:44",
+      "payload": "{\"humidity\": 32.65, \"temperature\": 41.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44426,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 19:34:09",
+      "payload": "{\"DO\": 6409.12, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.47, \"Temp_DO\": 19.45, \"Salinity\": 0, \"DO_Saturation\": 69838.08}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44425,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 19:33:56",
+      "payload": "{\"pH\": 7.11, \"Temp\": 27.99}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44424,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 19:30:57",
+      "payload": "{\"humidity\": 54.03, \"temperature\": 31.64}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44423,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 19:28:01",
+      "payload": "{\"humidity\": 34.23, \"temperature\": 41.35}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44422,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 19:23:46",
+      "payload": "{\"DO\": 6418.4, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.5, \"Temp_DO\": 19.43, \"Salinity\": 0, \"DO_Saturation\": 69664}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44421,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 19:22:22",
+      "payload": "{\"pH\": 7.12, \"Temp\": 27.78}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44420,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 19:19:19",
+      "payload": "{\"humidity\": 54.81, \"temperature\": 31.47}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44419,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 19:17:19",
+      "payload": "{\"humidity\": 32.93, \"temperature\": 41.08}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44418,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 19:13:23",
+      "payload": "{\"DO\": 6602.4, \"EC\": 0, \"TDS\": 0, \"Temp\": 19, \"Temp_DO\": 19.22, \"Salinity\": 0, \"DO_Saturation\": 70965.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44417,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 19:10:48",
+      "payload": "{\"pH\": 7.16, \"Temp\": 27.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44416,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 19:07:41",
+      "payload": "{\"humidity\": 54.83, \"temperature\": 31.29}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44415,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 19:06:36",
+      "payload": "{\"humidity\": 35.06, \"temperature\": 41.01}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44414,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 19:03:01",
+      "payload": "{\"DO\": 6822.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.91, \"Temp_DO\": 19.09, \"Salinity\": 0, \"DO_Saturation\": 73045.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44413,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 18:59:15",
+      "payload": "{\"pH\": 7, \"Temp\": 27.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44412,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 18:56:04",
+      "payload": "{\"humidity\": 54.39, \"temperature\": 30.88}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44411,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 18:55:54",
+      "payload": "{\"humidity\": 32.72, \"temperature\": 41.08}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44410,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 18:52:39",
+      "payload": "{\"DO\": 7050.72, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.88, \"Temp_DO\": 19.09, \"Salinity\": 0, \"DO_Saturation\": 75490.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44409,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 18:47:42",
+      "payload": "{\"pH\": 7.01, \"Temp\": 27.01}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44408,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 18:45:12",
+      "payload": "{\"humidity\": 33.04, \"temperature\": 40.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44407,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 18:44:26",
+      "payload": "{\"humidity\": 55.54, \"temperature\": 30.62}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44406,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 18:42:17",
+      "payload": "{\"DO\": 7082.24, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.72, \"Temp_DO\": 19.81, \"Salinity\": 0, \"DO_Saturation\": 77172.47}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44405,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 18:36:09",
+      "payload": "{\"pH\": 7.02, \"Temp\": 26.78}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44404,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 18:34:30",
+      "payload": "{\"humidity\": 32.84, \"temperature\": 41.04}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44403,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 18:32:48",
+      "payload": "{\"humidity\": 55.5, \"temperature\": 30.18}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44402,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 18:31:55",
+      "payload": "{\"DO\": 7107.36, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.52, \"Temp_DO\": 19.69, \"Salinity\": 0, \"DO_Saturation\": 76842.24}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44401,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 18:24:36",
+      "payload": "{\"pH\": 7.04, \"Temp\": 26.47}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44400,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 18:23:48",
+      "payload": "{\"humidity\": 33.03, \"temperature\": 40.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44399,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 18:21:33",
+      "payload": "{\"DO\": 7103.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.35, \"Temp_DO\": 19.22, \"Salinity\": 0, \"DO_Saturation\": 76354.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44398,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 18:21:11",
+      "payload": "{\"humidity\": 56.1, \"temperature\": 29.72}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44397,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 18:13:07",
+      "payload": "{\"humidity\": 34.26, \"temperature\": 39.95}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44396,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 18:13:04",
+      "payload": "{\"pH\": 7, \"Temp\": 26.17}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44395,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 18:11:12",
+      "payload": "{\"DO\": 7193.76, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.07, \"Temp_DO\": 19.48, \"Salinity\": 0, \"DO_Saturation\": 75975.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44394,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 18:09:34",
+      "payload": "{\"humidity\": 55.28, \"temperature\": 29.22}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44393,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 18:02:26",
+      "payload": "{\"humidity\": 33.07, \"temperature\": 39.34}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44392,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 18:01:32",
+      "payload": "{\"pH\": 6.97, \"Temp\": 25.96}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44391,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 18:00:51",
+      "payload": "{\"DO\": 7213.6, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.38, \"Temp_DO\": 20.26, \"Salinity\": 0, \"DO_Saturation\": 78603.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44390,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 17:57:57",
+      "payload": "{\"humidity\": 56.82, \"temperature\": 29}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44389,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 17:51:45",
+      "payload": "{\"humidity\": 36.04, \"temperature\": 38.22}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44388,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 17:50:30",
+      "payload": "{\"DO\": 7227.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.57, \"Temp_DO\": 20.03, \"Salinity\": 0, \"DO_Saturation\": 79061.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44387,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 17:50:00",
+      "payload": "{\"pH\": 6.99, \"Temp\": 25.67}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44386,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 17:46:20",
+      "payload": "{\"humidity\": 57.62, \"temperature\": 28.38}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44385,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 17:41:05",
+      "payload": "{\"humidity\": 39.34, \"temperature\": 36.96}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44384,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 17:40:09",
+      "payload": "{\"DO\": 7017.44, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.45, \"Temp_DO\": 21.07, \"Salinity\": 0, \"DO_Saturation\": 78585.6}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44383,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 17:38:29",
+      "payload": "{\"pH\": 6.94, \"Temp\": 25.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44382,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 17:34:43",
+      "payload": "{\"humidity\": 58.05, \"temperature\": 27.94}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44381,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 17:30:25",
+      "payload": "{\"humidity\": 41.48, \"temperature\": 36.27}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44380,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 17:29:49",
+      "payload": "{\"DO\": 7109.44, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.73, \"Temp_DO\": 20.76, \"Salinity\": 0, \"DO_Saturation\": 78993.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44379,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 17:26:57",
+      "payload": "{\"pH\": 6.85, \"Temp\": 25.23}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44378,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 17:23:07",
+      "payload": "{\"humidity\": 59.67, \"temperature\": 27.46}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44377,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 17:19:45",
+      "payload": "{\"humidity\": 44.93, \"temperature\": 35.97}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44376,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 17:19:29",
+      "payload": "{\"DO\": 7270.4, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.3, \"Temp_DO\": 20.64, \"Salinity\": 0, \"DO_Saturation\": 79686.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44375,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 17:15:26",
+      "payload": "{\"pH\": 6.93, \"Temp\": 25.07}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44374,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 17:11:30",
+      "payload": "{\"humidity\": 60.5, \"temperature\": 26.95}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44373,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 17:09:09",
+      "payload": "{\"DO\": 7298.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.81, \"Temp_DO\": 21.5, \"Salinity\": 0, \"DO_Saturation\": 81254.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44372,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 17:09:06",
+      "payload": "{\"humidity\": 49.46, \"temperature\": 36.91}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44371,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 17:03:55",
+      "payload": "{\"pH\": 6.86, \"Temp\": 24.81}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44370,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 16:59:54",
+      "payload": "{\"humidity\": 62.05, \"temperature\": 26.44}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44369,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 16:58:49",
+      "payload": "{\"DO\": 7334.24, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.18, \"Temp_DO\": 21.28, \"Salinity\": 0, \"DO_Saturation\": 83426.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44368,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 16:58:26",
+      "payload": "{\"humidity\": 52.18, \"temperature\": 35.95}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44367,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 16:52:24",
+      "payload": "{\"pH\": 6.87, \"Temp\": 24.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44366,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 16:48:30",
+      "payload": "{\"DO\": 7419.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.12, \"Temp_DO\": 22.35, \"Salinity\": 0, \"DO_Saturation\": 85895.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44365,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 16:48:18",
+      "payload": "{\"humidity\": 62.94, \"temperature\": 25.82}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44364,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 16:47:48",
+      "payload": "{\"humidity\": 54.54, \"temperature\": 35.39}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44363,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 16:40:53",
+      "payload": "{\"pH\": 6.86, \"Temp\": 24.41}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44362,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 16:38:10",
+      "payload": "{\"DO\": 7728.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.35, \"Temp_DO\": 21.86, \"Salinity\": 0, \"DO_Saturation\": 87736.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44361,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 16:37:09",
+      "payload": "{\"humidity\": 57.92, \"temperature\": 34.71}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44360,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 16:36:42",
+      "payload": "{\"humidity\": 63.67, \"temperature\": 25.23}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44359,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 16:29:22",
+      "payload": "{\"pH\": 6.83, \"Temp\": 24.07}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44358,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 16:27:51",
+      "payload": "{\"DO\": 7935.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.54, \"Temp_DO\": 21.81, \"Salinity\": 0, \"DO_Saturation\": 89216}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44357,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 16:26:31",
+      "payload": "{\"humidity\": 62.74, \"temperature\": 34.25}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44356,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 16:25:06",
+      "payload": "{\"humidity\": 64.81, \"temperature\": 24.65}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44355,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 16:17:52",
+      "payload": "{\"pH\": 6.94, \"Temp\": 23.97}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44354,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 16:17:33",
+      "payload": "{\"DO\": 8046.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.3, \"Temp_DO\": 21.69, \"Salinity\": 0, \"DO_Saturation\": 90818.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44353,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 16:15:53",
+      "payload": "{\"humidity\": 65.61, \"temperature\": 34.01}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44352,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 16:13:31",
+      "payload": "{\"humidity\": 65.67, \"temperature\": 24.01}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44351,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 16:07:14",
+      "payload": "{\"DO\": 8444, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.57, \"Temp_DO\": 21.26, \"Salinity\": 0, \"DO_Saturation\": 94003.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44350,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 16:06:22",
+      "payload": "{\"pH\": 6.93, \"Temp\": 23.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44349,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 16:05:15",
+      "payload": "{\"humidity\": 65.6, \"temperature\": 34.02}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44348,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 16:01:56",
+      "payload": "{\"humidity\": 66.76, \"temperature\": 23.35}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44347,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 15:56:56",
+      "payload": "{\"DO\": 7594.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.45, \"Temp_DO\": 21.45, \"Salinity\": 0, \"DO_Saturation\": 85542.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44346,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 15:54:51",
+      "payload": "{\"pH\": 6.87, \"Temp\": 23.74}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44345,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 15:54:38",
+      "payload": "{\"humidity\": 66.95, \"temperature\": 33.02}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44344,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 15:50:20",
+      "payload": "{\"humidity\": 67.43, \"temperature\": 22.7}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44343,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 15:46:38",
+      "payload": "{\"DO\": 7637.6, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.52, \"Temp_DO\": 21.26, \"Salinity\": 0, \"DO_Saturation\": 85027.84}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44342,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 15:44:01",
+      "payload": "{\"humidity\": 67.66, \"temperature\": 32.13}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44341,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 15:43:21",
+      "payload": "{\"pH\": 6.94, \"Temp\": 23.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44340,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 15:38:46",
+      "payload": "{\"humidity\": 68.13, \"temperature\": 22.08}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44339,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 15:36:21",
+      "payload": "{\"DO\": 7794.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.47, \"Temp_DO\": 20.98, \"Salinity\": 0, \"DO_Saturation\": 87111.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44338,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 15:33:24",
+      "payload": "{\"humidity\": 68.58, \"temperature\": 31.42}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44337,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 15:31:52",
+      "payload": "{\"pH\": 6.91, \"Temp\": 23.67}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44336,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 15:27:11",
+      "payload": "{\"humidity\": 68.94, \"temperature\": 21.37}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44335,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 15:26:04",
+      "payload": "{\"DO\": 7962.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.88, \"Temp_DO\": 21.09, \"Salinity\": 0, \"DO_Saturation\": 89341.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44334,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 15:22:48",
+      "payload": "{\"humidity\": 71.8, \"temperature\": 30.62}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44333,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 15:20:22",
+      "payload": "{\"pH\": 6.85, \"Temp\": 23.22}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44332,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 15:15:47",
+      "payload": "{\"DO\": 7764, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.99, \"Temp_DO\": 21.09, \"Salinity\": 0, \"DO_Saturation\": 87116.8}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44331,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 15:15:36",
+      "payload": "{\"humidity\": 69.48, \"temperature\": 20.71}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44330,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 15:12:12",
+      "payload": "{\"humidity\": 72.5, \"temperature\": 29.82}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44329,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 15:08:53",
+      "payload": "{\"pH\": 6.92, \"Temp\": 23.18}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44328,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 15:05:30",
+      "payload": "{\"DO\": 7678.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.26, \"Temp_DO\": 20.74, \"Salinity\": 0, \"DO_Saturation\": 85148.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44327,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 15:04:02",
+      "payload": "{\"humidity\": 70.15, \"temperature\": 20.03}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44326,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 15:01:37",
+      "payload": "{\"humidity\": 74.3, \"temperature\": 29.3}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44325,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 14:57:25",
+      "payload": "{\"pH\": 6.95, \"Temp\": 22.82}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44324,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 14:55:14",
+      "payload": "{\"DO\": 6234.72, \"EC\": 0, \"TDS\": 0, \"Temp\": 16, \"Temp_DO\": 20.72, \"Salinity\": 0, \"DO_Saturation\": 69008.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44323,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 14:52:28",
+      "payload": "{\"humidity\": 70.38, \"temperature\": 19.41}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44322,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 14:51:02",
+      "payload": "{\"humidity\": 75.54, \"temperature\": 28.55}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44321,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 14:45:56",
+      "payload": "{\"pH\": 6.9, \"Temp\": 22.85}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44320,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 14:44:58",
+      "payload": "{\"DO\": 4999.36, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.8, \"Temp_DO\": 19.5, \"Salinity\": 0, \"DO_Saturation\": 53213.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44319,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 14:40:54",
+      "payload": "{\"humidity\": 71.71, \"temperature\": 18.83}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44318,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 14:40:27",
+      "payload": "{\"humidity\": 78.33, \"temperature\": 27.61}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44317,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 14:34:43",
+      "payload": "{\"DO\": 2843.28, \"EC\": 0, \"TDS\": 0, \"Temp\": 14.86, \"Temp_DO\": 17.69, \"Salinity\": 0, \"DO_Saturation\": 29274.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44316,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 14:34:28",
+      "payload": "{\"pH\": 6.94, \"Temp\": 22.75}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44315,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 14:29:52",
+      "payload": "{\"humidity\": 82.83, \"temperature\": 26.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44314,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 14:29:20",
+      "payload": "{\"humidity\": 73.12, \"temperature\": 18.05}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44313,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 14:24:27",
+      "payload": "{\"DO\": 2307.63, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.71, \"Temp_DO\": 17.62, \"Salinity\": 0, \"DO_Saturation\": 24134.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44312,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 14:23:00",
+      "payload": "{\"pH\": 6.94, \"Temp\": 22.7}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44311,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 14:19:18",
+      "payload": "{\"humidity\": 91.24, \"temperature\": 24.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44310,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 14:17:46",
+      "payload": "{\"humidity\": 73.49, \"temperature\": 17.37}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44309,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 14:14:12",
+      "payload": "{\"DO\": 1927.12, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.71, \"Temp_DO\": 17.52, \"Salinity\": 0, \"DO_Saturation\": 19920}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44308,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 14:11:32",
+      "payload": "{\"pH\": 7.02, \"Temp\": 22.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44307,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 14:08:44",
+      "payload": "{\"humidity\": 100, \"temperature\": 23.38}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44306,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 14:06:13",
+      "payload": "{\"humidity\": 73.57, \"temperature\": 16.64}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44305,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 14:03:57",
+      "payload": "{\"DO\": 1674.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.54, \"Temp_DO\": 16.69, \"Salinity\": 0, \"DO_Saturation\": 17002.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44304,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 14:00:05",
+      "payload": "{\"pH\": 6.86, \"Temp\": 22.33}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44303,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 13:58:10",
+      "payload": "{\"humidity\": 100, \"temperature\": 21.54}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44302,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 13:54:40",
+      "payload": "{\"humidity\": 73.36, \"temperature\": 15.88}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44301,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 13:53:43",
+      "payload": "{\"DO\": 2024.72, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.19, \"Temp_DO\": 16.66, \"Salinity\": 0, \"DO_Saturation\": 20685.11}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44300,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 13:48:38",
+      "payload": "{\"pH\": 7.14, \"Temp\": 22.45}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44299,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 13:47:37",
+      "payload": "{\"humidity\": 100, \"temperature\": 20.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44298,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 13:43:28",
+      "payload": "{\"DO\": 9206.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.83, \"Temp_DO\": 16.73, \"Salinity\": 0, \"DO_Saturation\": 92953.6}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44297,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 13:43:06",
+      "payload": "{\"humidity\": 73.1, \"temperature\": 15.19}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44296,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 13:37:10",
+      "payload": "{\"pH\": 7.33, \"Temp\": 22.51}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44295,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 13:37:03",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.57}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44294,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 13:33:14",
+      "payload": "{\"DO\": 9131.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.67, \"Temp_DO\": 16.54, \"Salinity\": 0, \"DO_Saturation\": 92743.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44293,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 13:31:33",
+      "payload": "{\"humidity\": 72.2, \"temperature\": 14.58}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44292,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 13:26:30",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44291,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 13:25:43",
+      "payload": "{\"pH\": 7.01, \"Temp\": 22.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44290,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 13:23:00",
+      "payload": "{\"DO\": 9090.24, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.66, \"Temp_DO\": 16.74, \"Salinity\": 0, \"DO_Saturation\": 93050.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44289,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 13:20:01",
+      "payload": "{\"humidity\": 71.88, \"temperature\": 14.44}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44288,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 13:15:56",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.38}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44287,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 13:14:16",
+      "payload": "{\"pH\": 7.23, \"Temp\": 22.59}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44286,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 13:12:46",
+      "payload": "{\"DO\": 9134.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.11, \"Temp_DO\": 16.66, \"Salinity\": 0, \"DO_Saturation\": 93314.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44285,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 13:08:28",
+      "payload": "{\"humidity\": 71.49, \"temperature\": 14.47}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44284,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 13:05:23",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.22}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44283,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 13:02:49",
+      "payload": "{\"pH\": 7.05, \"Temp\": 22.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44282,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 13:02:31",
+      "payload": "{\"DO\": 9037.76, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.31, \"Temp_DO\": 16.81, \"Salinity\": 0, \"DO_Saturation\": 92876.8}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44281,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 12:56:55",
+      "payload": "{\"humidity\": 71.82, \"temperature\": 14.58}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44280,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 12:54:50",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.28}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44279,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 12:52:17",
+      "payload": "{\"DO\": 9008.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.95, \"Temp_DO\": 17, \"Salinity\": 0, \"DO_Saturation\": 92572.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44278,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 12:51:21",
+      "payload": "{\"pH\": 7.01, \"Temp\": 22.73}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44277,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 12:45:22",
+      "payload": "{\"humidity\": 72.08, \"temperature\": 14.59}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44276,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 12:44:16",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.5}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44275,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 12:42:03",
+      "payload": "{\"DO\": 9110.72, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.95, \"Temp_DO\": 16.69, \"Salinity\": 0, \"DO_Saturation\": 92533.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44274,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 12:39:54",
+      "payload": "{\"pH\": 7.09, \"Temp\": 22.31}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44273,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 12:33:49",
+      "payload": "{\"humidity\": 72.36, \"temperature\": 14.64}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44272,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 12:33:43",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.05}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44271,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 12:31:48",
+      "payload": "{\"DO\": 8968.96, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.69, \"Temp_DO\": 16.83, \"Salinity\": 0, \"DO_Saturation\": 91988.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44270,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 12:28:27",
+      "payload": "{\"pH\": 6.96, \"Temp\": 23.17}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44269,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 12:23:09",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.23}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44268,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 12:22:16",
+      "payload": "{\"humidity\": 72.01, \"temperature\": 14.67}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44267,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 12:21:34",
+      "payload": "{\"DO\": 9034.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.93, \"Temp_DO\": 16.64, \"Salinity\": 0, \"DO_Saturation\": 91573.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44266,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 12:17:00",
+      "payload": "{\"pH\": 7.12, \"Temp\": 22.73}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44265,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 12:12:36",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.19}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44264,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 12:11:20",
+      "payload": "{\"DO\": 8966.72, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.95, \"Temp_DO\": 16.76, \"Salinity\": 0, \"DO_Saturation\": 91427.84}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44263,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 12:10:43",
+      "payload": "{\"humidity\": 71.06, \"temperature\": 14.57}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44262,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 12:05:32",
+      "payload": "{\"pH\": 6.95, \"Temp\": 22.63}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44261,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 12:02:02",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.19}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44260,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 12:01:07",
+      "payload": "{\"DO\": 9220.8, \"EC\": 0, \"TDS\": 0, \"Temp\": 0, \"Temp_DO\": 16, \"Salinity\": 0, \"DO_Saturation\": 92922.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44259,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 11:59:10",
+      "payload": "{\"humidity\": 70.75, \"temperature\": 14.55}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44258,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 11:54:05",
+      "payload": "{\"pH\": 7.08, \"Temp\": 22.8}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44257,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 11:51:29",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44256,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 11:50:51",
+      "payload": "{\"DO\": 8910.24, \"EC\": 0, \"TDS\": 0, \"Temp\": 14.95, \"Temp_DO\": 16.93, \"Salinity\": 0, \"DO_Saturation\": 91568.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44255,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 11:47:37",
+      "payload": "{\"humidity\": 69.54, \"temperature\": 14.52}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44254,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 11:42:38",
+      "payload": "{\"pH\": 7.14, \"Temp\": 22.8}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44253,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 11:40:55",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.1}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44252,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 11:40:37",
+      "payload": "{\"DO\": 8819.04, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.09, \"Temp_DO\": 17.16, \"Salinity\": 0, \"DO_Saturation\": 91159.04}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44251,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 11:36:04",
+      "payload": "{\"humidity\": 68.48, \"temperature\": 14.69}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44250,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 11:31:10",
+      "payload": "{\"pH\": 7.18, \"Temp\": 22.8}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44248,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 11:30:22",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.75}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44249,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 11:30:22",
+      "payload": "{\"DO\": 8951.51, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.21, \"Temp_DO\": 17.05, \"Salinity\": 0, \"DO_Saturation\": 91095.04}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44247,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 11:24:31",
+      "payload": "{\"humidity\": 68.31, \"temperature\": 14.68}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44246,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 11:20:08",
+      "payload": "{\"DO\": 8867.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.18, \"Temp_DO\": 17.12, \"Salinity\": 0, \"DO_Saturation\": 91128.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44245,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 11:19:48",
+      "payload": "{\"humidity\": 99.8, \"temperature\": 19.03}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44244,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 11:19:43",
+      "payload": "{\"pH\": 6.97, \"Temp\": 22.89}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44243,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 11:12:58",
+      "payload": "{\"humidity\": 67.89, \"temperature\": 14.83}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44242,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 11:09:54",
+      "payload": "{\"DO\": 8916.96, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.54, \"Temp_DO\": 16.88, \"Salinity\": 0, \"DO_Saturation\": 91097.6}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44241,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 11:09:15",
+      "payload": "{\"humidity\": 100, \"temperature\": 19.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44240,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 11:08:16",
+      "payload": "{\"pH\": 7.02, \"Temp\": 22.97}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44239,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 11:01:25",
+      "payload": "{\"humidity\": 67.25, \"temperature\": 14.79}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44238,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 10:59:39",
+      "payload": "{\"DO\": 8770.55, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.02, \"Temp_DO\": 16.8, \"Salinity\": 0, \"DO_Saturation\": 90483.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44237,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 10:58:42",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.72}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44236,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 10:56:49",
+      "payload": "{\"pH\": 7.04, \"Temp\": 22.91}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44235,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 10:49:52",
+      "payload": "{\"humidity\": 66.86, \"temperature\": 14.99}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44234,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 10:49:25",
+      "payload": "{\"DO\": 8832.8, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.4, \"Temp_DO\": 16.93, \"Salinity\": 0, \"DO_Saturation\": 90767.36}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44233,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 10:48:08",
+      "payload": "{\"humidity\": 100, \"temperature\": 18.04}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44232,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 10:45:21",
+      "payload": "{\"pH\": 6.97, \"Temp\": 22.99}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44231,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 10:39:11",
+      "payload": "{\"DO\": 8767.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.87, \"Temp_DO\": 17.02, \"Salinity\": 0, \"DO_Saturation\": 90629.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44230,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 10:38:19",
+      "payload": "{\"humidity\": 66.11, \"temperature\": 15.03}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44229,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 10:37:35",
+      "payload": "{\"humidity\": 99.87, \"temperature\": 17.65}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44228,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 10:33:54",
+      "payload": "{\"pH\": 6.91, \"Temp\": 23.06}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44227,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 10:28:58",
+      "payload": "{\"DO\": 9002.55, \"EC\": 0, \"TDS\": 0, \"Temp\": 0, \"Temp_DO\": 16.28, \"Salinity\": 0, \"DO_Saturation\": 91077.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44226,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 10:27:02",
+      "payload": "{\"humidity\": 99.61, \"temperature\": 17.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44225,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 10:26:46",
+      "payload": "{\"humidity\": 65.86, \"temperature\": 15.05}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44224,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 10:22:27",
+      "payload": "{\"pH\": 7.05, \"Temp\": 23.15}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44223,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 10:18:42",
+      "payload": "{\"DO\": 8560.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.86, \"Temp_DO\": 17.23, \"Salinity\": 0, \"DO_Saturation\": 87623.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44222,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 10:16:29",
+      "payload": "{\"humidity\": 99.6, \"temperature\": 17.73}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44221,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 10:15:13",
+      "payload": "{\"humidity\": 65.21, \"temperature\": 15.37}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44220,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 10:10:59",
+      "payload": "{\"pH\": 7.02, \"Temp\": 23.15}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44219,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 10:08:28",
+      "payload": "{\"DO\": 8530.55, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.81, \"Temp_DO\": 17.45, \"Salinity\": 0, \"DO_Saturation\": 86981.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44218,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 10:05:56",
+      "payload": "{\"humidity\": 99.42, \"temperature\": 17.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44217,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 10:03:40",
+      "payload": "{\"humidity\": 64.95, \"temperature\": 15.5}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44216,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 09:59:32",
+      "payload": "{\"pH\": 6.9, \"Temp\": 23.27}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44215,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 09:58:13",
+      "payload": "{\"DO\": 8501.76, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.92, \"Temp_DO\": 17.12, \"Salinity\": 0, \"DO_Saturation\": 87367.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44214,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 09:55:22",
+      "payload": "{\"humidity\": 99.63, \"temperature\": 17.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44213,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 09:52:06",
+      "payload": "{\"humidity\": 64.37, \"temperature\": 15.61}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44212,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 09:48:05",
+      "payload": "{\"pH\": 6.98, \"Temp\": 23.39}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44211,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 09:47:59",
+      "payload": "{\"DO\": 8405.28, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.04, \"Temp_DO\": 17.47, \"Salinity\": 0, \"DO_Saturation\": 86376.96}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44210,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 09:44:49",
+      "payload": "{\"humidity\": 99.28, \"temperature\": 17.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44209,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 09:40:33",
+      "payload": "{\"humidity\": 64.17, \"temperature\": 15.75}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44208,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 09:37:44",
+      "payload": "{\"DO\": 8326.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 15.59, \"Temp_DO\": 17.38, \"Salinity\": 0, \"DO_Saturation\": 86231.04}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44207,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 09:36:37",
+      "payload": "{\"pH\": 6.84, \"Temp\": 23.51}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44206,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 09:34:16",
+      "payload": "{\"humidity\": 99.26, \"temperature\": 17.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44205,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 09:29:00",
+      "payload": "{\"humidity\": 63.51, \"temperature\": 15.96}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44204,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 09:27:30",
+      "payload": "{\"DO\": 8305.28, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.66, \"Temp_DO\": 17.42, \"Salinity\": 0, \"DO_Saturation\": 86353.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44203,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 09:25:10",
+      "payload": "{\"pH\": 6.88, \"Temp\": 23.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44202,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 09:23:43",
+      "payload": "{\"humidity\": 98.98, \"temperature\": 17.7}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44201,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 09:17:27",
+      "payload": "{\"humidity\": 62.99, \"temperature\": 16.06}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44200,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 09:17:16",
+      "payload": "{\"DO\": 8309.28, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.95, \"Temp_DO\": 17.4, \"Salinity\": 0, \"DO_Saturation\": 85724.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44199,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 09:13:43",
+      "payload": "{\"pH\": 6.93, \"Temp\": 23.67}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44198,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 09:13:09",
+      "payload": "{\"humidity\": 98.81, \"temperature\": 17.87}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44197,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 09:07:01",
+      "payload": "{\"DO\": 8320.48, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.56, \"Temp_DO\": 17.55, \"Salinity\": 0, \"DO_Saturation\": 86341.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44196,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 09:05:53",
+      "payload": "{\"humidity\": 62.76, \"temperature\": 16.27}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44195,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 09:02:36",
+      "payload": "{\"humidity\": 98.73, \"temperature\": 17.9}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44194,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 09:02:15",
+      "payload": "{\"pH\": 6.88, \"Temp\": 23.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44193,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 08:56:47",
+      "payload": "{\"DO\": 8280.48, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.23, \"Temp_DO\": 17.86, \"Salinity\": 0, \"DO_Saturation\": 86433.28}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44192,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 08:54:20",
+      "payload": "{\"humidity\": 62.17, \"temperature\": 16.49}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44191,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 08:52:03",
+      "payload": "{\"humidity\": 98.07, \"temperature\": 18.01}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44190,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 08:50:48",
+      "payload": "{\"pH\": 6.89, \"Temp\": 23.85}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44189,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 08:46:33",
+      "payload": "{\"DO\": 8358.55, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.87, \"Temp_DO\": 17.8, \"Salinity\": 0, \"DO_Saturation\": 86400}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44188,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 08:42:46",
+      "payload": "{\"humidity\": 61.7, \"temperature\": 16.61}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44187,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 08:41:30",
+      "payload": "{\"humidity\": 97.79, \"temperature\": 17.83}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44186,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 08:39:21",
+      "payload": "{\"pH\": 6.9, \"Temp\": 23.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44185,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 08:36:18",
+      "payload": "{\"DO\": 8307.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.07, \"Temp_DO\": 17.71, \"Salinity\": 0, \"DO_Saturation\": 86202.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44184,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 08:31:13",
+      "payload": "{\"humidity\": 61.6, \"temperature\": 16.74}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44183,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 08:30:57",
+      "payload": "{\"humidity\": 97.72, \"temperature\": 17.61}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44182,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 08:27:54",
+      "payload": "{\"pH\": 6.82, \"Temp\": 24}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44181,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 08:26:06",
+      "payload": "{\"DO\": 8604.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 0, \"Temp_DO\": 16.99, \"Salinity\": 0, \"DO_Saturation\": 86878.72}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44180,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 08:20:23",
+      "payload": "{\"humidity\": 96.26, \"temperature\": 16.83}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44179,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 08:19:39",
+      "payload": "{\"humidity\": 60.81, \"temperature\": 16.95}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44178,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 08:16:26",
+      "payload": "{\"pH\": 6.95, \"Temp\": 24.13}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44177,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 08:15:50",
+      "payload": "{\"DO\": 8451.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.09, \"Temp_DO\": 17.85, \"Salinity\": 0, \"DO_Saturation\": 87697.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44176,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 08:09:50",
+      "payload": "{\"humidity\": 95.68, \"temperature\": 16.86}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44175,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 08:08:06",
+      "payload": "{\"humidity\": 60.16, \"temperature\": 17.12}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44174,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 08:05:35",
+      "payload": "{\"DO\": 8471.04, \"EC\": 0, \"TDS\": 0, \"Temp\": 16.62, \"Temp_DO\": 18.28, \"Salinity\": 0, \"DO_Saturation\": 88250.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44173,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 08:04:59",
+      "payload": "{\"pH\": 6.85, \"Temp\": 24.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44172,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 07:59:17",
+      "payload": "{\"humidity\": 95.54, \"temperature\": 16.94}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44171,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 07:56:32",
+      "payload": "{\"humidity\": 59.53, \"temperature\": 17.25}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44170,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 07:55:21",
+      "payload": "{\"DO\": 8580.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.5, \"Temp_DO\": 18.14, \"Salinity\": 0, \"DO_Saturation\": 89213.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44169,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 07:53:32",
+      "payload": "{\"pH\": 6.86, \"Temp\": 24.39}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44168,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 07:48:44",
+      "payload": "{\"humidity\": 95.31, \"temperature\": 17.15}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44167,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 07:45:09",
+      "payload": "{\"DO\": 8534.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 0, \"Temp_DO\": 17.12, \"Salinity\": 0, \"DO_Saturation\": 87697.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44166,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 07:44:58",
+      "payload": "{\"humidity\": 59.18, \"temperature\": 17.59}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44165,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 07:42:04",
+      "payload": "{\"pH\": 6.94, \"Temp\": 24.58}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44164,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 07:38:10",
+      "payload": "{\"humidity\": 95.11, \"temperature\": 17.21}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44163,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 07:34:53",
+      "payload": "{\"DO\": 1844.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.69, \"Temp_DO\": 18.14, \"Salinity\": 0, \"DO_Saturation\": 19077.11}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44162,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 07:33:24",
+      "payload": "{\"humidity\": 58.29, \"temperature\": 17.76}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44161,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 07:30:37",
+      "payload": "{\"pH\": 6.93, \"Temp\": 24.7}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44160,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 07:27:37",
+      "payload": "{\"humidity\": 94.6, \"temperature\": 17.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44159,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 07:24:38",
+      "payload": "{\"DO\": 8203.51, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.35, \"Temp_DO\": 18.23, \"Salinity\": 0, \"DO_Saturation\": 86640.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44158,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 07:21:51",
+      "payload": "{\"humidity\": 57.78, \"temperature\": 17.97}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44157,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 07:19:09",
+      "payload": "{\"pH\": 6.74, \"Temp\": 24.79}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44156,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 07:17:03",
+      "payload": "{\"humidity\": 94.47, \"temperature\": 17.46}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44155,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 07:14:24",
+      "payload": "{\"DO\": 1895.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.83, \"Temp_DO\": 18.47, \"Salinity\": 0, \"DO_Saturation\": 20015.36}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44154,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 07:10:17",
+      "payload": "{\"humidity\": 57.23, \"temperature\": 18.22}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44153,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 07:07:42",
+      "payload": "{\"pH\": 6.85, \"Temp\": 24.99}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44152,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 07:06:30",
+      "payload": "{\"humidity\": 94.49, \"temperature\": 17.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44151,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 07:04:11",
+      "payload": "{\"DO\": 576.8, \"EC\": 0, \"TDS\": 0, \"Temp\": 0, \"Temp_DO\": 17.78, \"Salinity\": 0, \"DO_Saturation\": 6044.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44150,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 06:58:43",
+      "payload": "{\"humidity\": 56.51, \"temperature\": 18.49}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44149,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 06:56:14",
+      "payload": "{\"pH\": 6.96, \"Temp\": 25.04}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44148,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 06:55:56",
+      "payload": "{\"humidity\": 94.1, \"temperature\": 17.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44147,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 06:53:54",
+      "payload": "{\"DO\": 1690.24, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.47, \"Temp_DO\": 18.72, \"Salinity\": 0, \"DO_Saturation\": 17955.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44146,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 06:47:09",
+      "payload": "{\"humidity\": 56.25, \"temperature\": 18.77}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44145,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 06:45:23",
+      "payload": "{\"humidity\": 93.84, \"temperature\": 17.93}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44144,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 06:44:47",
+      "payload": "{\"pH\": 6.86, \"Temp\": 25.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44143,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 06:43:40",
+      "payload": "{\"DO\": 1644.84, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.26, \"Temp_DO\": 18.78, \"Salinity\": 0, \"DO_Saturation\": 17372.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44142,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 06:35:35",
+      "payload": "{\"humidity\": 55.36, \"temperature\": 19.03}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44141,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 06:34:49",
+      "payload": "{\"humidity\": 93.19, \"temperature\": 18.06}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44140,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 06:33:25",
+      "payload": "{\"DO\": 1481.04, \"EC\": 0, \"TDS\": 0, \"Temp\": 17.98, \"Temp_DO\": 19.05, \"Salinity\": 0, \"DO_Saturation\": 15981.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44139,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 06:33:19",
+      "payload": "{\"pH\": 6.88, \"Temp\": 25.37}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44138,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 06:24:16",
+      "payload": "{\"humidity\": 93.39, \"temperature\": 18.24}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44137,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 06:24:01",
+      "payload": "{\"humidity\": 54.93, \"temperature\": 19.32}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44136,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 06:23:10",
+      "payload": "{\"DO\": 1472.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.16, \"Temp_DO\": 19.17, \"Salinity\": 0, \"DO_Saturation\": 15854.72}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44135,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 06:21:51",
+      "payload": "{\"pH\": 6.89, \"Temp\": 25.3}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44134,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 06:13:42",
+      "payload": "{\"humidity\": 92.92, \"temperature\": 18.51}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44133,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 06:12:55",
+      "payload": "{\"DO\": 1523.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.21, \"Temp_DO\": 19.22, \"Salinity\": 0, \"DO_Saturation\": 16375.68}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44132,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 06:12:26",
+      "payload": "{\"humidity\": 54.51, \"temperature\": 19.68}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44131,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 06:10:23",
+      "payload": "{\"pH\": 6.9, \"Temp\": 25.73}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44130,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 06:03:08",
+      "payload": "{\"humidity\": 92.96, \"temperature\": 18.85}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44129,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 06:02:40",
+      "payload": "{\"DO\": 1573.36, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.55, \"Temp_DO\": 19.21, \"Salinity\": 0, \"DO_Saturation\": 16845.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44128,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 06:00:52",
+      "payload": "{\"humidity\": 54.12, \"temperature\": 19.92}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44127,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 05:58:56",
+      "payload": "{\"pH\": 6.93, \"Temp\": 25.85}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44126,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 05:52:34",
+      "payload": "{\"humidity\": 92.76, \"temperature\": 18.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44125,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 05:52:25",
+      "payload": "{\"DO\": 2070.63, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.03, \"Temp_DO\": 20.34, \"Salinity\": 0, \"DO_Saturation\": 22874.24}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44124,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 05:49:17",
+      "payload": "{\"humidity\": 53.34, \"temperature\": 20.26}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44123,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 05:47:28",
+      "payload": "{\"pH\": 6.89, \"Temp\": 25.82}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44122,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 05:42:10",
+      "payload": "{\"DO\": 2124.8, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.64, \"Temp_DO\": 20.5, \"Salinity\": 0, \"DO_Saturation\": 23518.08}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44121,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 05:42:00",
+      "payload": "{\"humidity\": 92.24, \"temperature\": 19}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44120,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 05:37:43",
+      "payload": "{\"humidity\": 53.5, \"temperature\": 20.61}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44119,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 05:36:00",
+      "payload": "{\"pH\": 6.82, \"Temp\": 26.17}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44118,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 05:31:55",
+      "payload": "{\"DO\": 2109.44, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.62, \"Temp_DO\": 20.53, \"Salinity\": 0, \"DO_Saturation\": 23165.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44117,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 05:31:26",
+      "payload": "{\"humidity\": 92.56, \"temperature\": 19.19}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44116,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 05:26:08",
+      "payload": "{\"humidity\": 53.34, \"temperature\": 21.05}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44115,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 05:24:31",
+      "payload": "{\"pH\": 6.89, \"Temp\": 26.28}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44114,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 05:21:40",
+      "payload": "{\"DO\": 1975.48, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.02, \"Temp_DO\": 20.76, \"Salinity\": 0, \"DO_Saturation\": 21949.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44113,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 05:20:52",
+      "payload": "{\"humidity\": 92.39, \"temperature\": 19.34}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44112,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 05:14:33",
+      "payload": "{\"humidity\": 53.02, \"temperature\": 21.34}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44111,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 05:13:03",
+      "payload": "{\"pH\": 6.91, \"Temp\": 26.49}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44110,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 05:11:25",
+      "payload": "{\"DO\": 1985.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.81, \"Temp_DO\": 20.81, \"Salinity\": 0, \"DO_Saturation\": 21800.96}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44109,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 05:10:18",
+      "payload": "{\"humidity\": 92.64, \"temperature\": 19.57}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44108,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 05:02:59",
+      "payload": "{\"humidity\": 52.82, \"temperature\": 21.64}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44107,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 05:01:35",
+      "payload": "{\"pH\": 6.95, \"Temp\": 26.67}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44106,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 05:01:09",
+      "payload": "{\"DO\": 2138.44, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.83, \"Temp_DO\": 21.02, \"Salinity\": 0, \"DO_Saturation\": 23947.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44105,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 04:51:24",
+      "payload": "{\"humidity\": 52.21, \"temperature\": 22.09}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44104,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 04:50:54",
+      "payload": "{\"DO\": 2500.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.21, \"Temp_DO\": 21.07, \"Salinity\": 0, \"DO_Saturation\": 27998.72}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44103,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 04:50:07",
+      "payload": "{\"pH\": 6.91, \"Temp\": 26.72}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44102,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 04:49:09",
+      "payload": "{\"humidity\": 92.1, \"temperature\": 20}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44101,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 04:40:38",
+      "payload": "{\"DO\": 2861.04, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.29, \"Temp_DO\": 22.18, \"Salinity\": 0, \"DO_Saturation\": 32798.07}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44100,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 04:39:49",
+      "payload": "{\"humidity\": 51.69, \"temperature\": 22.51}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44099,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 04:38:38",
+      "payload": "{\"pH\": 6.96, \"Temp\": 26.92}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44098,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 04:38:35",
+      "payload": "{\"humidity\": 92.03, \"temperature\": 20.27}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44097,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 04:30:23",
+      "payload": "{\"DO\": 3687.28, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.21, \"Temp_DO\": 22.33, \"Salinity\": 0, \"DO_Saturation\": 41859.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44096,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 04:28:13",
+      "payload": "{\"humidity\": 51.21, \"temperature\": 22.81}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44095,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 04:28:00",
+      "payload": "{\"humidity\": 90.49, \"temperature\": 20.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44094,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 04:27:10",
+      "payload": "{\"pH\": 7.01, \"Temp\": 26.97}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44093,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 04:20:07",
+      "payload": "{\"DO\": 4163.84, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.33, \"Temp_DO\": 23.36, \"Salinity\": 0, \"DO_Saturation\": 49443.84}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44092,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 04:17:26",
+      "payload": "{\"humidity\": 90.6, \"temperature\": 20.98}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44091,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 04:16:38",
+      "payload": "{\"humidity\": 50.83, \"temperature\": 23.22}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44090,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 04:15:41",
+      "payload": "{\"pH\": 6.98, \"Temp\": 27.29}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44089,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 04:09:51",
+      "payload": "{\"DO\": 4608.64, \"EC\": 0, \"TDS\": 0, \"Temp\": 18.88, \"Temp_DO\": 24.62, \"Salinity\": 0, \"DO_Saturation\": 55155.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44088,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 04:06:51",
+      "payload": "{\"humidity\": 90.66, \"temperature\": 21.18}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44087,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 04:05:03",
+      "payload": "{\"humidity\": 51.4, \"temperature\": 23.67}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44086,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 04:04:13",
+      "payload": "{\"pH\": 6.86, \"Temp\": 27.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44085,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 03:59:35",
+      "payload": "{\"DO\": 5213.04, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.59, \"Temp_DO\": 24.83, \"Salinity\": 0, \"DO_Saturation\": 62144}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44084,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 03:56:16",
+      "payload": "{\"humidity\": 90.05, \"temperature\": 21.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44083,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 03:53:27",
+      "payload": "{\"humidity\": 50.65, \"temperature\": 24.06}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44082,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 03:52:44",
+      "payload": "{\"pH\": 6.92, \"Temp\": 27.58}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44081,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 03:49:19",
+      "payload": "{\"DO\": 5323.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.12, \"Temp_DO\": 25, \"Salinity\": 0, \"DO_Saturation\": 64714.24}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44080,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 03:45:41",
+      "payload": "{\"humidity\": 89.71, \"temperature\": 21.6}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44079,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 03:41:52",
+      "payload": "{\"humidity\": 49.86, \"temperature\": 24.43}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44078,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 03:41:15",
+      "payload": "{\"pH\": 7.02, \"Temp\": 27.71}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44077,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 03:39:03",
+      "payload": "{\"DO\": 5561.6, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.81, \"Temp_DO\": 24.95, \"Salinity\": 0, \"DO_Saturation\": 67740.15}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44076,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 03:35:06",
+      "payload": "{\"humidity\": 89.59, \"temperature\": 21.94}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44075,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 03:30:16",
+      "payload": "{\"humidity\": 48.86, \"temperature\": 24.85}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44074,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 03:29:46",
+      "payload": "{\"pH\": 6.94, \"Temp\": 27.87}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44073,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 03:28:47",
+      "payload": "{\"DO\": 6342.72, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.03, \"Temp_DO\": 25.34, \"Salinity\": 0, \"DO_Saturation\": 76501.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44072,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 03:24:30",
+      "payload": "{\"humidity\": 88.3, \"temperature\": 22.1}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44071,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 03:18:40",
+      "payload": "{\"humidity\": 48.48, \"temperature\": 25.38}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44070,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 03:18:30",
+      "payload": "{\"DO\": 6898.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.02, \"Temp_DO\": 25.27, \"Salinity\": 0, \"DO_Saturation\": 83696.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44069,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 03:18:17",
+      "payload": "{\"pH\": 7.08, \"Temp\": 28.1}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44068,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 03:13:55",
+      "payload": "{\"humidity\": 87.26, \"temperature\": 22.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44067,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 03:08:13",
+      "payload": "{\"DO\": 7062.4, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.22, \"Temp_DO\": 25.5, \"Salinity\": 0, \"DO_Saturation\": 86691.84}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44066,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 03:07:04",
+      "payload": "{\"humidity\": 48.09, \"temperature\": 25.83}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44065,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 03:06:48",
+      "payload": "{\"pH\": 7.06, \"Temp\": 28.61}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44064,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 03:03:19",
+      "payload": "{\"humidity\": 86.72, \"temperature\": 22.73}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44063,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 02:57:57",
+      "payload": "{\"DO\": 7321.12, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.05, \"Temp_DO\": 25.74, \"Salinity\": 0, \"DO_Saturation\": 88821.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44062,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 02:55:28",
+      "payload": "{\"humidity\": 47.35, \"temperature\": 26.2}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44061,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 02:55:18",
+      "payload": "{\"pH\": 7.08, \"Temp\": 28.66}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44060,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 02:52:43",
+      "payload": "{\"humidity\": 85.78, \"temperature\": 23.06}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44059,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 02:47:40",
+      "payload": "{\"DO\": 6915.52, \"EC\": 0, \"TDS\": 0, \"Temp\": 19.72, \"Temp_DO\": 26.12, \"Salinity\": 0, \"DO_Saturation\": 84725.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44058,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 02:43:51",
+      "payload": "{\"humidity\": 46.36, \"temperature\": 26.75}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44057,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 02:43:48",
+      "payload": "{\"pH\": 7.09, \"Temp\": 28.57}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44056,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 02:42:07",
+      "payload": "{\"humidity\": 82.28, \"temperature\": 23.71}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44055,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 02:37:22",
+      "payload": "{\"DO\": 6649.44, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.26, \"Temp_DO\": 25.99, \"Salinity\": 0, \"DO_Saturation\": 80674.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44054,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 02:32:18",
+      "payload": "{\"pH\": 7.09, \"Temp\": 28.75}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44053,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 02:32:15",
+      "payload": "{\"humidity\": 45.23, \"temperature\": 27.08}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44052,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 02:31:30",
+      "payload": "{\"humidity\": 80.21, \"temperature\": 24.31}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44051,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 02:27:05",
+      "payload": "{\"DO\": 6239.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.03, \"Temp_DO\": 26.22, \"Salinity\": 0, \"DO_Saturation\": 77186.56}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44050,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 02:20:54",
+      "payload": "{\"humidity\": 77.39, \"temperature\": 25.12}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44049,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 02:20:48",
+      "payload": "{\"pH\": 7.06, \"Temp\": 28.99}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44048,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 02:20:38",
+      "payload": "{\"humidity\": 44.52, \"temperature\": 27.36}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44047,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 02:16:47",
+      "payload": "{\"DO\": 6168.16, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.21, \"Temp_DO\": 26.29, \"Salinity\": 0, \"DO_Saturation\": 75715.84}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44046,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 02:10:16",
+      "payload": "{\"humidity\": 73.86, \"temperature\": 26.01}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44045,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 02:09:17",
+      "payload": "{\"pH\": 7.01, \"Temp\": 29.16}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44044,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 02:09:02",
+      "payload": "{\"humidity\": 43.73, \"temperature\": 27.91}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44043,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 02:06:28",
+      "payload": "{\"DO\": 6951.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.72, \"Temp_DO\": 26.44, \"Salinity\": 0, \"DO_Saturation\": 84661.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44042,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 01:59:39",
+      "payload": "{\"humidity\": 69.94, \"temperature\": 26.86}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44041,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 01:57:46",
+      "payload": "{\"pH\": 7.11, \"Temp\": 29.37}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44040,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 01:57:25",
+      "payload": "{\"humidity\": 43.13, \"temperature\": 28.25}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44039,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 01:56:10",
+      "payload": "{\"DO\": 6650.24, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.6, \"Temp_DO\": 26.74, \"Salinity\": 0, \"DO_Saturation\": 82595.84}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44038,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 01:49:00",
+      "payload": "{\"humidity\": 65.52, \"temperature\": 28.17}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44037,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 01:46:15",
+      "payload": "{\"pH\": 7.11, \"Temp\": 29.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44036,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 01:45:51",
+      "payload": "{\"DO\": 6538.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.81, \"Temp_DO\": 26.63, \"Salinity\": 0, \"DO_Saturation\": 81052.15}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44035,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 01:45:48",
+      "payload": "{\"humidity\": 42.16, \"temperature\": 28.73}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44034,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 01:38:22",
+      "payload": "{\"humidity\": 58.49, \"temperature\": 29.8}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44033,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 01:35:32",
+      "payload": "{\"DO\": 6517.44, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.14, \"Temp_DO\": 25.89, \"Salinity\": 0, \"DO_Saturation\": 79534.08}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44032,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 01:34:44",
+      "payload": "{\"pH\": 7.12, \"Temp\": 29.91}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44031,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 01:34:11",
+      "payload": "{\"humidity\": 41, \"temperature\": 29.18}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44030,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 01:27:43",
+      "payload": "{\"humidity\": 50.18, \"temperature\": 33.02}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44029,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 01:25:12",
+      "payload": "{\"DO\": 6356.96, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.84, \"Temp_DO\": 25.87, \"Salinity\": 0, \"DO_Saturation\": 78492.15}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44028,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 01:23:12",
+      "payload": "{\"pH\": 7.19, \"Temp\": 29.89}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44027,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 01:22:33",
+      "payload": "{\"humidity\": 40.03, \"temperature\": 29.55}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44026,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 01:17:04",
+      "payload": "{\"humidity\": 45.62, \"temperature\": 33.64}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44025,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 01:14:53",
+      "payload": "{\"DO\": 6263.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.22, \"Temp_DO\": 26.13, \"Salinity\": 0, \"DO_Saturation\": 77181.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44024,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 01:11:40",
+      "payload": "{\"pH\": 7.26, \"Temp\": 30.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44023,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 01:10:56",
+      "payload": "{\"humidity\": 39, \"temperature\": 30}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44022,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 01:06:24",
+      "payload": "{\"humidity\": 46.37, \"temperature\": 34.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44021,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 01:04:33",
+      "payload": "{\"DO\": 6131.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.79, \"Temp_DO\": 26.08, \"Salinity\": 0, \"DO_Saturation\": 75704.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44020,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 01:00:07",
+      "payload": "{\"pH\": 7.22, \"Temp\": 30.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44019,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 00:59:18",
+      "payload": "{\"humidity\": 38.9, \"temperature\": 30.37}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44018,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 00:55:44",
+      "payload": "{\"humidity\": 45.58, \"temperature\": 34.57}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44017,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 00:54:13",
+      "payload": "{\"DO\": 6234.4, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.33, \"Temp_DO\": 24.93, \"Salinity\": 0, \"DO_Saturation\": 74904.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44016,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 00:48:35",
+      "payload": "{\"pH\": 7.16, \"Temp\": 30.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44015,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 00:47:41",
+      "payload": "{\"humidity\": 39, \"temperature\": 30.59}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44014,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 00:45:04",
+      "payload": "{\"humidity\": 41.63, \"temperature\": 34.84}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44013,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 00:43:52",
+      "payload": "{\"DO\": 6133.92, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.54, \"Temp_DO\": 24.92, \"Salinity\": 0, \"DO_Saturation\": 72838.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44012,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 00:37:02",
+      "payload": "{\"pH\": 7.24, \"Temp\": 30.31}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44011,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 00:36:03",
+      "payload": "{\"humidity\": 39.46, \"temperature\": 30.64}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44010,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 00:34:24",
+      "payload": "{\"humidity\": 43.78, \"temperature\": 35.17}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44009,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 00:33:32",
+      "payload": "{\"DO\": 5960.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.31, \"Temp_DO\": 25.06, \"Salinity\": 0, \"DO_Saturation\": 71467.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44008,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 00:25:29",
+      "payload": "{\"pH\": 7.22, \"Temp\": 30.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44007,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 00:24:25",
+      "payload": "{\"humidity\": 39.49, \"temperature\": 30.64}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44006,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 00:23:43",
+      "payload": "{\"humidity\": 41.01, \"temperature\": 35.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44005,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 00:23:11",
+      "payload": "{\"DO\": 5916.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.4, \"Temp_DO\": 23.88, \"Salinity\": 0, \"DO_Saturation\": 70389.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44004,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 00:13:57",
+      "payload": "{\"pH\": 7.26, \"Temp\": 30.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44003,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 00:13:03",
+      "payload": "{\"humidity\": 40.48, \"temperature\": 35.69}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44002,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 00:12:50",
+      "payload": "{\"DO\": 5861.6, \"EC\": 0, \"TDS\": 0, \"Temp\": 22.54, \"Temp_DO\": 23.74, \"Salinity\": 0, \"DO_Saturation\": 69739.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 44001,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 00:12:48",
+      "payload": "{\"humidity\": 38.96, \"temperature\": 30.59}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 44000,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-12 00:02:29",
+      "payload": "{\"DO\": 5802.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.64, \"Temp_DO\": 23.9, \"Salinity\": 0, \"DO_Saturation\": 67700.47}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43999,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-12 00:02:24",
+      "payload": "{\"pH\": 7.22, \"Temp\": 30.53}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43998,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-12 00:02:22",
+      "payload": "{\"humidity\": 40.17, \"temperature\": 36.31}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43997,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-12 00:01:10",
+      "payload": "{\"humidity\": 38.99, \"temperature\": 30.61}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43996,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 23:52:08",
+      "payload": "{\"DO\": 5797.92, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.57, \"Temp_DO\": 22.75, \"Salinity\": 0, \"DO_Saturation\": 66726.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43995,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 23:51:40",
+      "payload": "{\"humidity\": 40.5, \"temperature\": 36.38}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43994,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 23:50:51",
+      "payload": "{\"pH\": 7.25, \"Temp\": 30.46}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43993,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 23:49:32",
+      "payload": "{\"humidity\": 39.3, \"temperature\": 30.58}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43992,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 23:41:47",
+      "payload": "{\"DO\": 5593.92, \"EC\": 0, \"TDS\": 0, \"Temp\": 22.33, \"Temp_DO\": 22.68, \"Salinity\": 0, \"DO_Saturation\": 65139.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43991,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 23:40:59",
+      "payload": "{\"humidity\": 40.56, \"temperature\": 36.72}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43990,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 23:39:18",
+      "payload": "{\"pH\": 7.21, \"Temp\": 30.59}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43989,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 23:37:55",
+      "payload": "{\"humidity\": 39, \"temperature\": 30.49}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43988,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 23:31:26",
+      "payload": "{\"DO\": 5842.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.43, \"Temp_DO\": 22.84, \"Salinity\": 0, \"DO_Saturation\": 66072.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43987,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 23:30:18",
+      "payload": "{\"humidity\": 42.18, \"temperature\": 36.67}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43986,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 23:27:45",
+      "payload": "{\"pH\": 7.2, \"Temp\": 30.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43985,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 23:26:17",
+      "payload": "{\"humidity\": 38.77, \"temperature\": 30.61}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43984,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 23:21:04",
+      "payload": "{\"DO\": 6415.04, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.86, \"Temp_DO\": 22.77, \"Salinity\": 0, \"DO_Saturation\": 73400.32}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43983,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 23:19:36",
+      "payload": "{\"humidity\": 38.63, \"temperature\": 37.1}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43982,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 23:16:12",
+      "payload": "{\"pH\": 7.23, \"Temp\": 30.57}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43981,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 23:14:39",
+      "payload": "{\"humidity\": 38.45, \"temperature\": 30.54}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43980,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 23:10:42",
+      "payload": "{\"DO\": 5942.24, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.97, \"Temp_DO\": 22.75, \"Salinity\": 0, \"DO_Saturation\": 68390.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43979,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 23:08:54",
+      "payload": "{\"humidity\": 36.17, \"temperature\": 37.83}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43978,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 23:04:39",
+      "payload": "{\"pH\": 7.21, \"Temp\": 30.59}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43977,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 23:03:01",
+      "payload": "{\"humidity\": 38.1, \"temperature\": 30.48}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43976,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 23:00:21",
+      "payload": "{\"DO\": 5199.27, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.57, \"Temp_DO\": 22.7, \"Salinity\": 0, \"DO_Saturation\": 59837.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43975,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 22:58:13",
+      "payload": "{\"humidity\": 38.85, \"temperature\": 37.37}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43974,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 22:53:05",
+      "payload": "{\"pH\": 7.28, \"Temp\": 30.53}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43973,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 22:51:24",
+      "payload": "{\"humidity\": 38.35, \"temperature\": 30.65}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43972,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 22:49:59",
+      "payload": "{\"DO\": 5396.48, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.31, \"Temp_DO\": 22.66, \"Salinity\": 0, \"DO_Saturation\": 61382.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43971,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 22:47:31",
+      "payload": "{\"humidity\": 35.53, \"temperature\": 37.59}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43970,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 22:41:32",
+      "payload": "{\"pH\": 7.18, \"Temp\": 30.53}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43969,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 22:39:46",
+      "payload": "{\"humidity\": 40.63, \"temperature\": 30.79}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43968,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 22:39:37",
+      "payload": "{\"DO\": 5394.56, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.73, \"Temp_DO\": 22.71, \"Salinity\": 0, \"DO_Saturation\": 61963.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43967,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 22:36:49",
+      "payload": "{\"humidity\": 38.4, \"temperature\": 37.76}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43966,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 22:29:59",
+      "payload": "{\"pH\": 7.22, \"Temp\": 30.35}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43965,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 22:29:15",
+      "payload": "{\"DO\": 5482.08, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.43, \"Temp_DO\": 22.66, \"Salinity\": 0, \"DO_Saturation\": 62356.48}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43964,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 22:28:08",
+      "payload": "{\"humidity\": 42.16, \"temperature\": 30.99}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43963,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 22:26:07",
+      "payload": "{\"humidity\": 42.64, \"temperature\": 37.87}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43962,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 22:18:53",
+      "payload": "{\"DO\": 5568.8, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.48, \"Temp_DO\": 22.64, \"Salinity\": 0, \"DO_Saturation\": 63718.4}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43961,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 22:18:25",
+      "payload": "{\"pH\": 7.17, \"Temp\": 30.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43960,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 22:16:30",
+      "payload": "{\"humidity\": 42.75, \"temperature\": 31.12}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43959,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 22:15:25",
+      "payload": "{\"humidity\": 38.11, \"temperature\": 37.7}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43958,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 22:08:31",
+      "payload": "{\"DO\": 5435.2, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.38, \"Temp_DO\": 22.59, \"Salinity\": 0, \"DO_Saturation\": 63166.72}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43957,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 22:06:52",
+      "payload": "{\"pH\": 7.2, \"Temp\": 30.33}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43956,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 22:04:52",
+      "payload": "{\"humidity\": 43.12, \"temperature\": 31.24}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43955,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 22:04:43",
+      "payload": "{\"humidity\": 42.37, \"temperature\": 37.43}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43954,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 21:58:08",
+      "payload": "{\"DO\": 5560.32, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.38, \"Temp_DO\": 22.49, \"Salinity\": 0, \"DO_Saturation\": 63496.96}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43953,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 21:55:18",
+      "payload": "{\"pH\": 7.15, \"Temp\": 30.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43952,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 21:54:00",
+      "payload": "{\"humidity\": 44.02, \"temperature\": 37.52}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43951,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 21:53:14",
+      "payload": "{\"humidity\": 43.51, \"temperature\": 31.43}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43950,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 21:47:46",
+      "payload": "{\"DO\": 5587.68, \"EC\": 0, \"TDS\": 0, \"Temp\": 20.96, \"Temp_DO\": 22.3, \"Salinity\": 0, \"DO_Saturation\": 63933.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43949,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 21:43:45",
+      "payload": "{\"pH\": 7.08, \"Temp\": 30.2}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43948,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 21:43:18",
+      "payload": "{\"humidity\": 42.97, \"temperature\": 37.88}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43947,
+      "device_id": "00:13:a2:00:41:da:fa:ee",
+      "date_time": "2022-06-11 21:41:36",
+      "payload": "{\"humidity\": 43.62, \"temperature\": 31.58}",
+      "battery": 99.64,
+      "location": "outside_shed"
+    },
+    {
+      "id": 43946,
+      "device_id": "00:13:a2:00:41:f4:3d:a9",
+      "date_time": "2022-06-11 21:37:23",
+      "payload": "{\"DO\": 5390.72, \"EC\": 0, \"TDS\": 0, \"Temp\": 21.05, \"Temp_DO\": 21.19, \"Salinity\": 0, \"DO_Saturation\": 60605.44}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43945,
+      "device_id": "00:13:a2:00:41:f0:42:aa",
+      "date_time": "2022-06-11 21:32:35",
+      "payload": "{\"humidity\": 41.06, \"temperature\": 38}",
+      "battery": 99.64,
+      "location": "600A"
+    },
+    {
+      "id": 43944,
+      "device_id": "00:13:a2:00:41:eb:c1:cb",
+      "date_time": "2022-06-11 21:32:11",
+      "payload": "{\"pH\": 7.13, \"Temp\": 30.07}",
+      "battery": 99.64,
+      "location": "600A"
+    }
+  ]
+}

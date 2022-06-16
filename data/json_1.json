@@ -1,0 +1,211 @@
+{
+  "yields": [
+    {
+      "id": 148,
+      "process_id": "P053122",
+      "powder_yield": 1062,
+      "yield_powder_purity": 25,
+      "dumas_yield_powder_purity": 14,
+      "yield_qc_purity": 26,
+      "p1_perc": 83,
+      "biomass_yield": 0.21,
+      "solids_yield": 3.9,
+      "powder_apc": null,
+      "powder_ph": 7,
+      "turbidity": 79,
+      "powder_color": 0.236,
+      "texture": 160,
+      "last_modified": "2022-06-09T13:57:23"
+    },
+    {
+      "id": 149,
+      "process_id": "P060122",
+      "powder_yield": null,
+      "yield_powder_purity": null,
+      "dumas_yield_powder_purity": null,
+      "yield_qc_purity": null,
+      "p1_perc": null,
+      "biomass_yield": null,
+      "solids_yield": null,
+      "powder_apc": null,
+      "powder_ph": null,
+      "turbidity": null,
+      "powder_color": null,
+      "texture": null,
+      "last_modified": "2022-06-09T13:57:23"
+    },
+    {
+      "id": 150,
+      "process_id": "P060222",
+      "powder_yield": 1170,
+      "yield_powder_purity": 30,
+      "dumas_yield_powder_purity": 16,
+      "yield_qc_purity": 33,
+      "p1_perc": 92,
+      "biomass_yield": 0.25,
+      "solids_yield": 4.6,
+      "powder_apc": null,
+      "powder_ph": 7,
+      "turbidity": 104,
+      "powder_color": 0.242,
+      "texture": 167,
+      "last_modified": "2022-06-09T13:57:23"
+    }
+  ],
+  "biomass": [
+    {
+      "id": 148,
+      "process_id": "P053122",
+      "biomass": 501,
+      "total_sp": 3423,
+      "dumas_sp": 6366,
+      "avg_dry_matter": 5.43,
+      "sp_dm_ratio": 23.38,
+      "sp_percentage": 1.27,
+      "biomass_comment": null,
+      "last_modified": "2022-06-09T13:57:23"
+    },
+    {
+      "id": 149,
+      "process_id": "P060122",
+      "biomass": 252,
+      "total_sp": 1628,
+      "dumas_sp": 3027,
+      "avg_dry_matter": null,
+      "sp_dm_ratio": null,
+      "sp_percentage": 1.2,
+      "biomass_comment": null,
+      "last_modified": "2022-06-09T13:57:23"
+    },
+    {
+      "id": 150,
+      "process_id": "P060222",
+      "biomass": 477,
+      "total_sp": 3248,
+      "dumas_sp": 6042,
+      "avg_dry_matter": 5.34,
+      "sp_dm_ratio": 23.76,
+      "sp_percentage": 1.27,
+      "biomass_comment": null,
+      "last_modified": "2022-06-09T13:57:23"
+    }
+  ],
+  "process_runs": [
+    {
+      "id": 171,
+      "process_run_id": "P053122",
+      "process_run_date": "2022-05-31T00:00:00",
+      "run_type": null,
+      "fractions_prod": null,
+      "process_changes": "Normal MBS in buffers, 25g AC/kg biomass, AC in tank 2, 1.5L of PO4 in DF buffer"
+    },
+    {
+      "id": 172,
+      "process_run_id": "P060122",
+      "process_run_date": "2022-06-01T00:00:00",
+      "run_type": null,
+      "fractions_prod": null,
+      "process_changes": "1/2 run to produce non-AC treated MF filtrate for GAC experiments"
+    },
+    {
+      "id": 173,
+      "process_run_id": "P060222",
+      "process_run_date": "2022-06-02T00:00:00",
+      "run_type": null,
+      "fractions_prod": null,
+      "process_changes": "Normal MBS in buffers, 25g AC/kg biomass, AC in tank 2, bag filter before MF, 1.5L of PO4 in DF buffer"
+    }
+  ],
+  "proteins": [
+    [
+      9563,
+      6559,
+      null,
+      2139,
+      2378,
+      2352,
+      676,
+      540,
+      1010
+    ],
+    [
+      3488,
+      3931,
+      null,
+      979,
+      846,
+      811,
+      null,
+      null,
+      null
+    ],
+    [
+      10235,
+      5626,
+      2213,
+      2326,
+      2372,
+      2403,
+      580,
+      630,
+      1074
+    ],
+    [
+      5397.5,
+      5511,
+      3366,
+      1809,
+      2093.5,
+      1793.5,
+      429.5,
+      434,
+      678.5
+    ]
+  ],
+  "solids": [
+    [
+      4.59,
+      3.75,
+      1.75,
+      4.45,
+      1.9,
+      1.64,
+      2.7,
+      null,
+      null
+    ],
+    [
+      4.73,
+      4.05,
+      null,
+      2.58,
+      1.51,
+      1.22,
+      null,
+      null,
+      null
+    ],
+    [
+      4.83,
+      4.09,
+      4.87,
+      5.49,
+      2.21,
+      1.95,
+      3.01,
+      1.78,
+      9.76
+    ],
+    [
+      4.96,
+      4.125,
+      4.605,
+      5.68,
+      1.87,
+      2.065,
+      2.475,
+      1.23,
+      7.83
+    ]
+  ]
+}
