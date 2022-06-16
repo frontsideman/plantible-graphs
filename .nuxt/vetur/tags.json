@@ -1,0 +1,17 @@
+{
+  "LineChart": {
+    "description": "Auto imported from components/LineChart.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "ScatterChart": {
+    "description": "Auto imported from components/ScatterChart.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}
