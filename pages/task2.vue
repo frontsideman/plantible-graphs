@@ -1,28 +1,14 @@
 <template>
   <v-row class="pt-md-8 pt-sm-4 pt-xs-4">
-    <v-col class="text-center" sm="12" xs="12" md="12" lg="6">
-      <section>
+    <v-col class="text-center" lx="6">
+      <section v-for="(item, index) in locationIdFromStore" :key="index" class="mb-8">
         <header>
-          <h2>Case study 1</h2>
+          <h2>{{index}}</h2>
         </header>
         <ScatterChart
-          :chart-data="getScatterData"
-          :chart-id="case_study1"
-          :dataset-id-key="case_study2"
-          :chart-options="options"
-        />
-      </section>
-    </v-col>
-
-    <v-col class="text-center" sm="12" xs="12" md="12" lg="6">
-      <section>
-        <header>
-          <h2>Case study 2</h2>
-        </header>
-        <ScatterChart
-          :chart-data="getScatterData"
-          :chart-id="case_study2"
-          :dataset-id-key="case_study2"
+          :chart-data="getScatterData(item)"
+          :chart-id="index"
+          :dataset-id-key="index"
           :chart-options="options"
         />
       </section>
@@ -33,8 +19,8 @@
 <script>
 import 'chartjs-adapter-date-fns';
 import { enUS } from 'date-fns/locale';
-import orderBy from 'lodash.orderby';
 import ScatterChart from '@/components/ScatterChart.vue';
+import { COLORS_LIST } from '@/constants/index';
 
 export default {
   name: 'TaskTwo',
@@ -44,7 +30,7 @@ export default {
   data() {
     return {
       options: {
-        backgroundColor: ['red', 'maroon', 'blue', 'green', 'brown', 'orange', 'aqua', 'lime', 'purple'],
+        backgroundColor: COLORS_LIST,
         responsive: true,
         maintainAspectRatio: false,
         borderWidth: 2,
@@ -68,52 +54,49 @@ export default {
           },
         },
       },
-      case_study1: 'case_study1',
-      case_study2: 'case_study2',
     }
   },
   computed: {
-    itemsFromStore () {
-      return this.$store.state.items.items;
-      // return this.$store.getters['items/getItems'];
-    },
-    getScatterData() {
-      const dataset = this.itemsFromStore.filter((item) => {
-        if (JSON.parse(item.payload).humidity) {
-          return {
-            item
-          }
-        }
-        return false;
-      });
-
-      const orderedData = orderBy(dataset, ['date_time'], ['asc']).map(item => {
-        const { temperature } = JSON.parse(item.payload);
-        return {
-          x: new Date(item.date_time),
-          y: temperature,
-        }
-      });
-
-      return {
-        datasets: [{
-          label: 'humidity',
-          fill: false,
-          backgroundColor: 'red',
-          data: orderedData
-        },
-        {
-          label: 'temperature',
-          fill: false,
-          backgroundColor: 'blue',
-          data: []
-        }
-        ]
-      }
+    locationIdFromStore () {
+      return this.$store.state.items.locationId;
     },
   },
   mounted(){
     this.$store.dispatch('items/fetchItems');
+  },
+  methods: {
+    getScatterData(data) {
+      const structuredObj = {};
+      for (const item of data) {
+        const payload = JSON.parse(item.payload);
+        for (const payloadItem in payload) {
+          if (structuredObj[payloadItem] === undefined) {
+            structuredObj[payloadItem] = [];
+          }
+
+          const temp = {}
+          temp.x = new Date(item.date_time);
+          temp.y = payload[payloadItem];
+          structuredObj[payloadItem].push(temp);
+        }
+      }
+
+      const dataset = [];
+      for (const item in structuredObj) {
+        const e = {
+          label: item,
+          fill: false,
+          // TODO: create fn for get 2 different colors
+          backgroundColor: COLORS_LIST[Math.floor(Math.random() * (COLORS_LIST.length - 1))],
+          data: structuredObj[item]
+        }
+        dataset.push(e);
+      }
+
+      return {
+        datasets: dataset
+      }
+    },
   },
 }
 </script>

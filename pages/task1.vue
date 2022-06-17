@@ -34,6 +34,7 @@
 import isEmpty from 'lodash.isempty';
 import LineChart from '@/components/LineChart.vue';
 import getAverageOfArrays from '@/helpers/getAverageOfArrays.js';
+import { COLORS_LIST, PROTEINS_LABELS, SOLIDS_LABELS } from '@/constants/index';
 
 export default {
   name: 'TaskOne',
@@ -43,8 +44,8 @@ export default {
   data() {
     return {
       options: {
-        backgroundColor: ['red', 'maroon', 'blue', 'green', 'brown', 'orange', 'aqua', 'lime', 'purple'],
-        borderColor: ['red', 'maroon', 'blue', 'green', 'brown', 'orange', 'aqua', 'lime', 'purple'],
+        backgroundColor: COLORS_LIST,
+        borderColor: COLORS_LIST,
         responsive: true,
         maintainAspectRatio: false,
         borderWidth: 2,
@@ -77,17 +78,7 @@ export default {
       dataset.push(averageProteinDataset);
 
       return {
-        labels: [
-          'Lysate Protein (g)',
-          'LS sep. Protein (g)',
-          'LS. Sep 2 Protein (g)',
-          'LHC Removal Feed Protein (g)',
-          'LHC Removal Filtrate Protein (g)',
-          'MF1 Filtrate Protein (g)',
-          'IC Protein (g)',
-          'DF Protein (g)',
-          'FC Protein (g)'
-        ],
+        labels: PROTEINS_LABELS,
         datasets: dataset
       }
     },
@@ -110,17 +101,7 @@ export default {
       dataset.push(averageSolidDataset);
 
       return {
-        labels: [
-          'Lysate % Solids',
-          'LS. sep % Solids',
-          'LS. Sep 2 % Solids',
-          'LHC Removal Feed % Solids',
-          'LHC Removal Filtrate % Solids',
-          'MF1 Filtrate Protein (g)',
-          'IC % Solids',
-          'DF % Solids',
-          'FC % Solids'
-        ],
+        labels:SOLIDS_LABELS,
         datasets: dataset
       }
     }
