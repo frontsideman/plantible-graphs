@@ -1,4 +1,5 @@
 import { STUDY_CASE_URL } from '@/constants';
+import transformItems from '@/helpers/transformItems';
 
 export const state = () => ({
   locationId: [],
@@ -12,17 +13,7 @@ export const getters = {
 
 export const mutations = {
   setItems(state, data) {
-    // TODO: move this data manipulation to helper function
-    // setItems should only set data to state
-    const locationId = data.reduce((acc, cur) => {
-      if (!acc[`${cur.location}|${cur.device_id}`]) {
-        acc[`${cur.location}|${cur.device_id}`] = [];
-      }
-      acc[`${cur.location}|${cur.device_id}`].push(cur);
-      return acc;
-    }, {});
-
-    state.locationId = locationId;
+    state.locationId = transformItems(data);
   },
 }
 

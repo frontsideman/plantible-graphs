@@ -33,7 +33,7 @@
           <v-card-actions>
             <NuxtLink to="/task1" class="v-btn v-btn--text theme--dark v-size--default deep-purple--text text--lighten-2">
               <span class="v-btn__content">
-                Task 1
+                Go to Task 1
               </span>
             </NuxtLink>
           </v-card-actions>
@@ -69,7 +69,7 @@
           <v-card-actions>
             <NuxtLink to="/task2" class="v-btn v-btn--text theme--dark v-size--default deep-purple--text text--lighten-2">
               <span class="v-btn__content">
-                Task 2
+                Go to Task 2
               </span>
             </NuxtLink>
           </v-card-actions>
@@ -83,6 +83,6 @@
 
 <script>
 export default {
-  name: 'IndexPage', 
+  name: 'IndexPage',
 }
 </script>

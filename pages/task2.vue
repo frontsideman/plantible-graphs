@@ -83,14 +83,14 @@ export default {
 
       const dataset = [];
       for (const item in structuredObj) {
-        const e = {
+        const temp = {
           label: item,
           fill: false,
-          // TODO: create fn for get 2 different colors
+          // TODO: create fn for get 2 different colors or map color to parameter
           backgroundColor: COLORS_LIST[Math.floor(Math.random() * (COLORS_LIST.length - 1))],
           data: structuredObj[item]
         }
-        dataset.push(e);
+        dataset.push(temp);
       }
 
       return {
