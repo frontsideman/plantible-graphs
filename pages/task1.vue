@@ -22,7 +22,7 @@
         <LineChart
           :chart-data="getSolidData"
           :chart-id="solids"
-          :dataset-id-key="proteins"
+          :dataset-id-key="solids"
           :chart-options="options"
         />
       </section>
@@ -31,6 +31,7 @@
 </template>
 
 <script>
+import isEmpty from 'lodash.isempty';
 import LineChart from '@/components/LineChart.vue';
 import getAverageOfArrays from '@/helpers/getAverageOfArrays.js';
 
@@ -47,18 +48,23 @@ export default {
         responsive: true,
         maintainAspectRatio: false,
         borderWidth: 2,
+        type: 'line',
       },
       proteins: 'proteins',
       solids: 'solids',
-      graphsData: this.$store.getters['trends/getTrends'],
-    }
+    };
   },
   computed: {
+    graphsData() {
+      return this.$store.state.trends.trendsItems;
+    },
     getProteinData() {
+      if (isEmpty(this.graphsData)) return {};
+
       const proteinData = this.graphsData.proteins.slice(0, 3);
       const dataset = proteinData.map((_, index) => {
         return {
-          label: this.graphsData?.yields[index]?.process_id || index,
+          label: this.graphsData.yields[index]?.process_id || index,
           data: this.graphsData.proteins[index],
         }
       });
@@ -86,10 +92,12 @@ export default {
       }
     },
     getSolidData() {
+      if (isEmpty(this.graphsData)) return {};
+
       const solidData = this.graphsData.solids.slice(0, 3);
       const dataset = solidData.map((_, index) => {
         return {
-          label: this.graphsData?.yields[index]?.process_id || index,
+          label: this.graphsData.yields[index]?.process_id || index,
           data: this.graphsData.solids[index],
         }
       });
@@ -117,7 +125,7 @@ export default {
       }
     }
   },
-  mounted(){
+  mounted() {
     this.$store.dispatch('trends/fetchTrends');
   },
 }

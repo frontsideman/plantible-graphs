@@ -1,7 +1,7 @@
 import { TRENDS_URL } from '@/constants';
 
 export const state = () => ({
-  trends: {},
+  trendsItems: {},
 })
 
 export const getters = {
@@ -12,7 +12,7 @@ export const getters = {
 
 export const mutations = {
   setTrends(state, data) {
-    state.trends = data;
+    state.trendsItems = data;
   }
 }
 
@@ -20,5 +20,6 @@ export const actions = {
   async fetchTrends(context) {
     const res = await this.$axios.$get(TRENDS_URL);
     context.commit('setTrends', res);
+    return res;
   }
 }

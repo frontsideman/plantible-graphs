@@ -58,7 +58,6 @@ export default {
             min: 0,
             max: 100,
           },
-
           x: {
             type: 'time',
             adapters: {
@@ -71,12 +70,15 @@ export default {
       },
       case_study1: 'case_study1',
       case_study2: 'case_study2',
-      items: this.$store.getters['items/getItems'],
     }
   },
   computed: {
+    itemsFromStore () {
+      return this.$store.state.items.items;
+      // return this.$store.getters['items/getItems'];
+    },
     getScatterData() {
-      const dataset = this.items.filter((item) => {
+      const dataset = this.itemsFromStore.filter((item) => {
         if (JSON.parse(item.payload).humidity) {
           return {
             item

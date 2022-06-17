@@ -20,5 +20,6 @@ export const actions = {
   async fetchItems(context) {
     const res = await this.$axios.$get(STUDY_CASE_URL);
     context.commit('setItems', res.items);
+    return res;
   }
 }

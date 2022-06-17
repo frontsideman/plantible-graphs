@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import { Line as LineChartGenerator } from 'vue-chartjs/legacy'
+import { Line as LineChartGenerator } from 'vue-chartjs/legacy';
 
 import {
   Chart as ChartJS,
@@ -23,7 +23,7 @@ import {
   LineElement,
   LinearScale,
   CategoryScale,
-  PointElement
+  PointElement,
 } from 'chart.js'
 
 ChartJS.register(
@@ -33,54 +33,54 @@ ChartJS.register(
   LineElement,
   LinearScale,
   CategoryScale,
-  PointElement
+  PointElement,
 )
 
 export default {
   name: 'LineChart',
   components: {
-    LineChartGenerator
+    LineChartGenerator,
   },
   props: {
     chartId: {
       type: String,
-      default: 'line-chart'
+      default: 'line-chart',
     },
     datasetIdKey: {
       type: String,
-      default: 'label'
+      default: 'label',
     },
     width: {
       type: Number,
-      default: 400
+      default: 400,
     },
     height: {
       type: Number,
-      default: 400
+      default: 400,
     },
     cssClasses: {
       default: '',
-      type: String
+      type: String,
     },
     styles: {
       type: Object,
-      default: () => {}
+      default: () => {},
     },
     plugins: {
       type: Array,
-      default: () => []
+      default: () => [],
     },
     chartData: {
       type: Object,
-      default: () => {}
+      default: () => {},
     },
     chartOptions: {
       type: Object,
       default: () => ({
         responsive: true,
-        maintainAspectRatio: false
-      })
-    }
+        maintainAspectRatio: false,
+      }),
+    },
   },
 
 }
