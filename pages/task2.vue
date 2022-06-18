@@ -20,7 +20,7 @@
 import 'chartjs-adapter-date-fns';
 import { enUS } from 'date-fns/locale';
 import ScatterChart from '@/components/ScatterChart.vue';
-import { COLORS_LIST, REQUEST_TIME, MATCH_COLOR_PARAMETER } from '@/constants/index';
+import { REQUEST_TIME, MATCH_COLOR_PARAMETER } from '@/constants/index';
 
 export default {
   name: 'TaskTwo',
@@ -30,7 +30,6 @@ export default {
   data() {
     return {
       options: {
-        backgroundColor: COLORS_LIST,
         responsive: true,
         maintainAspectRatio: false,
         borderWidth: 2,
@@ -90,13 +89,14 @@ export default {
           fill: false,
           // backgroundColor: COLORS_LIST[Math.floor(Math.random() * (COLORS_LIST.length - 1))],
           backgroundColor: MATCH_COLOR_PARAMETER[item.toLocaleLowerCase()],
-          data: structuredObj[item]
+          borderColor: MATCH_COLOR_PARAMETER[item.toLocaleLowerCase()],
+          data: structuredObj[item],
         }
         dataset.push(temp);
       }
 
       return {
-        datasets: dataset
+        datasets: dataset,
       }
     },
     getRequestTime() {

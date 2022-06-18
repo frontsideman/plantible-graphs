@@ -89,7 +89,7 @@ export default {
       if (isEmpty(this.graphsData)) return {};
 
       const solidData = this.graphsData.solids.slice(0, 3);
-      const dataset = solidData.map((_, index) => {
+      const dataset = solidData.map((item, index) => {
         return {
           label: this.graphsData.yields[index]?.process_id || index,
           data: this.graphsData.solids[index],
@@ -104,7 +104,7 @@ export default {
       dataset.push(averageSolidDataset);
 
       return {
-        labels:SOLIDS_LABELS,
+        labels: SOLIDS_LABELS,
         datasets: dataset
       }
     },
