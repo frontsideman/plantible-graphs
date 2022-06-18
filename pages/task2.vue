@@ -20,7 +20,7 @@
 import 'chartjs-adapter-date-fns';
 import { enUS } from 'date-fns/locale';
 import ScatterChart from '@/components/ScatterChart.vue';
-import { COLORS_LIST } from '@/constants/index';
+import { COLORS_LIST, REQUEST_TIME, MATCH_COLOR_PARAMETER } from '@/constants/index';
 
 export default {
   name: 'TaskTwo',
@@ -58,11 +58,14 @@ export default {
   },
   computed: {
     locationIdFromStore () {
-      return this.$store.state.items.locationId;
+      return this.$store.getters['items/getItems'];
     },
   },
   mounted(){
-    this.$store.dispatch('items/fetchItems');
+    // TODO: might be any trigger to update like check data of previous request and it it more then any value get request
+    if (this.locationIdFromStore.length === 0) {
+      this.$store.dispatch('items/fetchItems');
+    };
   },
   methods: {
     getScatterData(data) {
@@ -86,8 +89,8 @@ export default {
         const temp = {
           label: item,
           fill: false,
-          // TODO: create fn for get 2 different colors or map color to parameter
-          backgroundColor: COLORS_LIST[Math.floor(Math.random() * (COLORS_LIST.length - 1))],
+          // backgroundColor: COLORS_LIST[Math.floor(Math.random() * (COLORS_LIST.length - 1))],
+          backgroundColor: MATCH_COLOR_PARAMETER[item.toLocaleLowerCase()],
           data: structuredObj[item]
         }
         dataset.push(temp);
@@ -96,6 +99,11 @@ export default {
       return {
         datasets: dataset
       }
+    },
+    getRequestTime() {
+      const currentTime = (new Date()).getTime();
+      const isRequestTime = currentTime - this.lastRequestTime > REQUEST_TIME;
+      return this.locationIdFromStore.length === 0 || isRequestTime;
     },
   },
 }

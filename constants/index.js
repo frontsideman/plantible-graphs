@@ -25,3 +25,22 @@ export const SOLIDS_LABELS =  [
   'DF % Solids',
   'FC % Solids'
 ];
+
+export const REQUEST_TIME = 60000; // 1 min
+
+export const PARAMETERS = {
+
+}
+
+export const MATCH_COLOR_PARAMETER = {
+  'temperature': 'red',
+  'humidity': 'blue',
+  'temp': 'orange',
+  'ph': 'purple',
+  'sanity': 'maroon',
+  'do': 'brown',
+  'ec': 'aqua',
+  'dts': 'lime',
+  'temp_do': '',
+  'do_saturation': 'black'
+}

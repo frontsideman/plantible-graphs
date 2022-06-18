@@ -34,7 +34,7 @@
 import isEmpty from 'lodash.isempty';
 import LineChart from '@/components/LineChart.vue';
 import getAverageOfArrays from '@/helpers/getAverageOfArrays.js';
-import { COLORS_LIST, PROTEINS_LABELS, SOLIDS_LABELS } from '@/constants/index';
+import { COLORS_LIST, PROTEINS_LABELS, SOLIDS_LABELS, REQUEST_TIME } from '@/constants/index';
 
 export default {
   name: 'TaskOne',
@@ -56,8 +56,11 @@ export default {
     };
   },
   computed: {
+    lastRequestTime() {
+      return this.$store.getters['trends/getTrendsTime'];
+    },
     graphsData() {
-      return this.$store.state.trends.trendsItems;
+      return this.$store.getters['trends/getTrends'];
     },
     getProteinData() {
       if (isEmpty(this.graphsData)) return {};
@@ -104,10 +107,19 @@ export default {
         labels:SOLIDS_LABELS,
         datasets: dataset
       }
-    }
+    },
   },
   mounted() {
-    this.$store.dispatch('trends/fetchTrends');
+    if (this.getRequestTime) {
+      this.$store.dispatch('trends/fetchTrends');
+    };
+  },
+  methods: {
+    getRequestTime() {
+      const currentTime = (new Date()).getTime();
+      const isRequestTime = currentTime - this.lastRequestTime > REQUEST_TIME;
+      return isEmpty(this.graphsData) || isRequestTime;
+    }
   },
 }
 </script>
