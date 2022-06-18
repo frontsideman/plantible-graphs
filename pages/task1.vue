@@ -110,7 +110,7 @@ export default {
     },
   },
   mounted() {
-    if (this.getRequestTime) {
+    if (this.getRequestTime()) {
       this.$store.dispatch('trends/fetchTrends');
     };
   },

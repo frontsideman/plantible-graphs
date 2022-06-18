@@ -62,8 +62,7 @@ export default {
     },
   },
   mounted(){
-    // TODO: might be any trigger to update like check data of previous request and it it more then any value get request
-    if (this.locationIdFromStore.length === 0) {
+    if (this.getRequestTime()) {
       this.$store.dispatch('items/fetchItems');
     };
   },
