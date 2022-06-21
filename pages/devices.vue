@@ -40,8 +40,8 @@ export default {
               display: true,
               text: 'Temperature (C) / Humidity',
             },
-            min: 0,
-            max: 100,
+            // min: 0,
+            // max: 100,
           },
           x: {
             type: 'time',
@@ -84,12 +84,14 @@ export default {
 
       const dataset = [];
       for (const item in structuredObj) {
+        const preferredColor = MATCH_COLOR_PARAMETER[item.toLocaleLowerCase()];
         const temp = {
           label: item,
           fill: false,
-          // backgroundColor: COLORS_LIST[Math.floor(Math.random() * (COLORS_LIST.length - 1))],
-          backgroundColor: MATCH_COLOR_PARAMETER[item.toLocaleLowerCase()],
-          borderColor: MATCH_COLOR_PARAMETER[item.toLocaleLowerCase()],
+          backgroundColor: preferredColor,
+          borderColor: preferredColor,
+          pointBackgroundColor: preferredColor,
+          pointBorderColor: 'transparent',
           data: structuredObj[item],
         }
         dataset.push(temp);

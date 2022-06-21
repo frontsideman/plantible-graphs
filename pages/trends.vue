@@ -44,15 +44,20 @@ export default {
   data() {
     return {
       options: {
-        backgroundColor: COLORS_LIST,
-        borderColor: COLORS_LIST,
+        // backgroundColor: COLORS_LIST,
+        // borderColor: COLORS_LIST,
+        // pointBackgroundColor: 'black',
+        // pointBorderColor: null,
+        devicePixelRatio: 2,
+        animation: false,
         responsive: true,
         maintainAspectRatio: false,
-        borderWidth: 2,
+        borderWidth: 1,
         type: 'line',
       },
       proteins: 'proteins',
       solids: 'solids',
+      averageColor: 'lime',
     };
   },
   computed: {
@@ -67,13 +72,25 @@ export default {
 
       const proteinData = this.graphsData.proteins.slice(0, 3);
       const dataset = proteinData.map((_, index) => {
+        const preferredColor = COLORS_LIST[index];
         return {
+          backgroundColor: preferredColor,
+          borderColor: preferredColor,
+          pointBackgroundColor: preferredColor,
+          pointBorderColor: preferredColor,
+
           label: this.graphsData.yields[index]?.process_id || index,
           data: this.graphsData.proteins[index],
         }
       });
 
       const averageProteinDataset = {
+        backgroundColor: this.averageColor,
+        borderColor: this.averageColor,
+        pointBackgroundColor: this.averageColor,
+        pointBorderColor: this.averageColor,
+        borderWidth: 2,
+
         label: 'Average',
         data: getAverageOfArrays(proteinData),
       };
@@ -90,13 +107,24 @@ export default {
 
       const solidData = this.graphsData.solids.slice(0, 3);
       const dataset = solidData.map((item, index) => {
+        const preferredColor = COLORS_LIST[index];
         return {
+          backgroundColor: preferredColor,
+          borderColor: preferredColor,
+          pointBackgroundColor: preferredColor,
+          pointBorderColor: preferredColor,
           label: this.graphsData.yields[index]?.process_id || index,
           data: this.graphsData.solids[index],
         }
       });
 
       const averageSolidDataset = {
+        backgroundColor: this.averageColor,
+        borderColor: this.averageColor,
+        pointBackgroundColor: this.averageColor,
+        pointBorderColor: this.averageColor,
+        borderWidth: 2,
+
         label: 'average',
         data: getAverageOfArrays(solidData),
       };
