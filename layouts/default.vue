@@ -26,20 +26,8 @@
     </v-navigation-drawer>
     <v-app-bar :clipped-left="clipped" fixed app>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
-      <!-- <v-btn icon @click.stop="miniVariant = !miniVariant">
-        <v-icon>mdi-{{ `chevron-${miniVariant ? 'right' : 'left'}` }}</v-icon>
-      </v-btn> -->
-      <!-- <v-btn icon @click.stop="clipped = !clipped">
-        <v-icon>mdi-application</v-icon>
-      </v-btn> -->
-      <!-- <v-btn icon @click.stop="fixed = !fixed">
-        <v-icon>mdi-minus</v-icon>
-      </v-btn> -->
       <v-toolbar-title v-text="title" />
       <v-spacer />
-      <!-- <v-btn icon @click.stop="rightDrawer = !rightDrawer">
-        <v-icon>mdi-menu</v-icon>
-      </v-btn> -->
     </v-app-bar>
     <v-main>
       <v-container>
@@ -72,19 +60,19 @@ export default {
       fixed: false,
       items: [
         {
-          icon: 'mdi-apps',
+          icon: 'mdi-home',
           title: 'Home',
           to: '/',
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Task 1',
-          to: '/task1',
+          icon: 'mdi-chart-line',
+          title: 'Trends',
+          to: '/trends',
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Task 2',
-          to: '/task2',
+          icon: 'mdi-chart-scatter-plot',
+          title: 'Devices',
+          to: '/devices',
         },
       ],
       miniVariant: false,

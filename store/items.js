@@ -1,5 +1,5 @@
 import { STUDY_CASE_URL } from '@/constants';
-import transformItems from '@/helpers/transformItems';
+import transformDataToDeviceLocation from '~/helpers/transformDataToDeviceLocation';
 
 export const state = () => ({
   locationId: [],
@@ -17,7 +17,7 @@ export const getters = {
 
 export const mutations = {
   setItems(state, { data, time}) {
-    state.locationId = transformItems(data);
+    state.locationId = transformDataToDeviceLocation(data);
     state.time = time;
   },
 }

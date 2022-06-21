@@ -17,7 +17,7 @@
     <v-col class="text-center" sm="12" xs="12" md="12" lg="6">
       <section>
         <header>
-          <h2>Solids Trends</h2>
+          <h2>Solid Trends</h2>
         </header>
         <LineChart
           :chart-data="getSolidData"
@@ -37,7 +37,7 @@ import getAverageOfArrays from '@/helpers/getAverageOfArrays.js';
 import { COLORS_LIST, PROTEINS_LABELS, SOLIDS_LABELS, REQUEST_TIME } from '@/constants/index';
 
 export default {
-  name: 'TaskOne',
+  name: 'TrendsPage',
   components: {
     LineChart,
   },

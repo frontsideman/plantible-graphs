@@ -23,7 +23,7 @@ import ScatterChart from '@/components/ScatterChart.vue';
 import { REQUEST_TIME, MATCH_COLOR_PARAMETER } from '@/constants/index';
 
 export default {
-  name: 'TaskTwo',
+  name: 'DevicesPage',
   components: {
     ScatterChart,
   },
@@ -32,7 +32,7 @@ export default {
       options: {
         responsive: true,
         maintainAspectRatio: false,
-        borderWidth: 2,
+        borderWidth: 1,
         type: 'scatter',
         scales: {
           y: {
@@ -56,11 +56,11 @@ export default {
     }
   },
   computed: {
-    locationIdFromStore () {
+    locationIdFromStore() {
       return this.$store.getters['items/getItems'];
     },
   },
-  mounted(){
+  mounted() {
     if (this.getRequestTime()) {
       this.$store.dispatch('items/fetchItems');
     };

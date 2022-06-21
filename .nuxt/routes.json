@@ -1,17 +1,17 @@
 [
   {
-    "name": "task1",
-    "path": "/task1",
-    "component": "/Users/aliaksandrsekunau/projects/plantiblefoods/graphics/plantible-graphs/pages/task1.vue",
-    "chunkName": "pages/task1",
-    "_name": "_2aa3b85c"
+    "name": "devices",
+    "path": "/devices",
+    "component": "/Users/aliaksandrsekunau/projects/plantiblefoods/graphics/plantible-graphs/pages/devices.vue",
+    "chunkName": "pages/devices",
+    "_name": "_1a21e163"
   },
   {
-    "name": "task2",
-    "path": "/task2",
-    "component": "/Users/aliaksandrsekunau/projects/plantiblefoods/graphics/plantible-graphs/pages/task2.vue",
-    "chunkName": "pages/task2",
-    "_name": "_2a87895a"
+    "name": "trends",
+    "path": "/trends",
+    "component": "/Users/aliaksandrsekunau/projects/plantiblefoods/graphics/plantible-graphs/pages/trends.vue",
+    "chunkName": "pages/trends",
+    "_name": "_e2928840"
   },
   {
     "name": "index",

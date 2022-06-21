@@ -6,8 +6,6 @@ You can directly use them in pages and other components without the need to impo
 
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
+- `<Card>` | `<card>` (components/Card.vue)
 - `<LineChart>` | `<line-chart>` (components/LineChart.vue)
-- `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
 - `<ScatterChart>` | `<scatter-chart>` (components/ScatterChart.vue)
-- `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)
-- `<VuetifyLogo>` | `<vuetify-logo>` (components/VuetifyLogo.vue)
